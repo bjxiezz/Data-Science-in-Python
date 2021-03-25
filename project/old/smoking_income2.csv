@@ -1,0 +1,1376 @@
+,year,State,Median income,Smoke everyday,Smoke some days,Former smoker,Never smoked,abbrev,region
+0,1995,Alabama,43434.0,21.9,2.1,21.1,54.8,AL,Southeast
+1,1995,Alaska,80136.0,22.3,2.6,27.2,47.9,AK,Far West
+2,1995,Arizona,51575.0,20.3,2.4,25.6,51.7,AZ,Southwest
+3,1995,Arkansas,43138.0,22.7,2.3,23.5,51.5,AR,Southeast
+4,1995,California,61846.0,12.7,2.5,28.2,56.7,CA,Far West
+5,1995,Colorado,68024.0,17.9,3.6,27.4,51.1,CO,Rocky Mountain
+6,1995,Connecticut,67250.0,18.6,2.0,28.8,50.7,CT,New England
+7,1995,Delaware,58368.0,23.0,2.3,25.8,48.9,DE,Mideast
+8,1995,District of Columbia,51383.0,,,,,DC,
+9,1995,Florida,49707.0,20.3,2.7,28.5,48.5,FL,Southeast
+10,1995,Georgia,56983.0,18.4,1.9,18.1,61.6,GA,Southeast
+11,1995,Hawaii,71609.0,15.1,2.5,21.6,60.9,HI,Far West
+12,1995,Idaho,54605.0,18.0,1.6,24.1,56.2,ID,Rocky Mountain
+13,1995,Illinois,63621.0,19.9,2.9,23.7,53.4,IL,Great Lakes
+14,1995,Indiana,55790.0,24.3,2.7,23.0,50.0,IN,Great Lakes
+15,1995,Iowa,59356.0,20.2,2.9,23.9,53.0,IA,Plains
+16,1995,Kansas,50703.0,18.6,3.0,24.3,54.1,KS,Plains
+17,1995,Kentucky,49816.0,24.9,2.7,22.3,50.1,KY,Southeast
+18,1995,Louisiana,46706.0,21.1,4.0,22.3,52.7,LA,Southeast
+19,1995,Maine,56580.0,22.2,2.5,27.2,48.1,ME,New England
+20,1995,Maryland,68584.0,18.0,3.1,20.6,58.3,MD,Mideast
+21,1995,Massachusetts,64461.0,18.8,2.8,30.0,48.4,MA,New England
+22,1995,Michigan,60872.0,21.5,4.1,28.3,46.2,MI,Great Lakes
+23,1995,Minnesota,63390.0,17.4,2.9,23.6,56.1,MN,Plains
+24,1995,Mississippi,44348.0,20.5,2.8,20.8,55.8,MS,Southeast
+25,1995,Missouri,58196.0,21.9,2.2,27.1,48.8,MO,Plains
+26,1995,Montana,46385.0,18.9,2.2,29.2,49.8,MT,Rocky Mountain
+27,1995,Nebraska,55028.0,19.4,2.4,25.7,52.5,NE,Plains
+28,1995,Nevada,60300.0,23.3,2.5,26.8,47.4,NV,Far West
+29,1995,New Hampshire,65459.0,18.8,2.3,32.7,46.2,NH,New England
+30,1995,New Jersey,73402.0,15.3,3.7,25.3,55.7,NJ,Mideast
+31,1995,New Mexico,43434.0,17.6,3.1,27.7,51.7,NM,Southwest
+32,1995,New York,55193.0,19.1,2.2,25.3,53.4,NY,Mideast
+33,1995,North Carolina,53440.0,23.0,2.7,22.6,51.6,NC,Southeast
+34,1995,North Dakota,48611.0,20.1,2.5,24.2,53.2,ND,Plains
+35,1995,Ohio,58390.0,23.6,2.2,24.0,50.2,OH,Great Lakes
+36,1995,Oklahoma,43968.0,20.2,1.3,17.4,61.2,OK,Southwest
+37,1995,Oregon,60785.0,18.5,3.2,28.4,49.9,OR,Far West
+38,1995,Pennsylvania,57693.0,20.4,3.3,28.3,48.0,PA,Mideast
+39,1995,Rhode Island,59089.0,21.3,3.5,29.2,46.0,RI,New England
+40,1995,South Carolina,48581.0,20.9,2.5,20.4,56.1,SC,Southeast
+41,1995,South Dakota,49428.0,19.8,1.9,24.0,54.2,SD,Plains
+42,1995,Tennessee,48487.0,24.2,1.9,19.8,54.1,TN,Southeast
+43,1995,Texas,53541.0,19.9,3.6,23.7,52.8,TX,Southwest
+44,1995,United States,56945.0,19.9,2.6,25.3,51.7,US,
+45,1995,Utah,60962.0,11.2,1.9,18.1,68.9,UT,Rocky Mountain
+46,1995,Vermont,56523.0,18.9,3.2,31.5,46.5,VT,New England
+47,1995,Virginia,60531.0,18.7,2.7,25.2,53.5,VA,Southeast
+48,1995,Washington,59438.0,17.5,2.4,29.9,50.2,WA,Far West
+49,1995,West Virginia,41577.0,23.7,1.9,23.3,51.1,WV,Southeast
+50,1995,Wisconsin,68440.0,18.2,3.5,27.6,50.7,WI,Great Lakes
+51,1995,Wyoming,52688.0,19.1,2.9,26.8,51.2,WY,Rocky Mountain
+52,1996,Alabama,49324.0,17.6,4.8,21.5,56.1,AL,Southeast
+53,1996,Alaska,85911.0,21.7,6.0,26.0,46.3,AK,Far West
+54,1996,All States and DC,,19.5,4.0,23.8,52.2,,
+55,1996,Arizona,51497.0,19.9,3.9,25.1,51.2,AZ,Southwest
+56,1996,Arkansas,44150.0,21.9,3.4,18.0,56.7,AR,Southeast
+57,1996,California,63176.0,13.0,5.6,25.0,56.4,CA,Far West
+58,1996,Colorado,66657.0,16.7,6.1,24.2,53.1,CO,Rocky Mountain
+59,1996,Connecticut,68559.0,17.4,4.4,28.2,50.0,CT,New England
+60,1996,Delaware,63985.0,21.0,3.3,26.8,49.0,DE,Mideast
+61,1996,District of Columbia,52033.0,14.9,5.6,17.8,61.7,DC,
+62,1996,Florida,49876.0,18.1,3.7,30.7,47.5,FL,Southeast
+63,1996,Georgia,52896.0,17.3,3.0,14.2,65.6,GA,Southeast
+64,1996,Hawaii,67995.0,18.3,4.0,24.1,53.7,HI,Far West
+65,1996,Idaho,56498.0,16.8,4.4,22.8,56.0,ID,Rocky Mountain
+66,1996,Illinois,64384.0,20.4,4.4,23.4,51.8,IL,Great Lakes
+67,1996,Indiana,57211.0,24.9,3.7,23.7,47.6,IN,Great Lakes
+68,1996,Iowa,54056.0,19.6,4.0,23.8,52.6,IA,Plains
+69,1996,Kansas,53040.0,18.6,3.5,19.5,58.4,KS,Plains
+70,1996,Kentucky,52760.0,27.9,3.8,23.2,45.2,KY,Southeast
+71,1996,Louisiana,49259.0,21.9,4.0,21.5,52.7,LA,Southeast
+72,1996,Maine,56477.0,22.6,2.8,27.8,46.9,ME,New England
+73,1996,Maryland,71610.0,17.9,3.0,23.4,55.7,MD,Mideast
+74,1996,Massachusetts,64287.0,18.4,4.9,30.4,46.2,MA,New England
+75,1996,Michigan,63849.0,21.0,4.7,25.9,48.5,MI,Great Lakes
+76,1996,Minnesota,66723.0,15.6,5.0,23.1,56.3,MN,Plains
+77,1996,Mississippi,43424.0,19.7,3.5,21.1,55.7,MS,Southeast
+78,1996,Missouri,55775.0,22.6,5.2,24.7,47.5,MO,Plains
+79,1996,Montana,46691.0,19.1,2.6,27.0,51.3,MT,Rocky Mountain
+80,1996,Nebraska,55366.0,19.5,2.6,23.6,54.3,NE,Plains
+81,1996,Nevada,62734.0,25.1,3.0,26.8,45.0,NV,Far West
+82,1996,New Hampshire,64145.0,20.6,4.2,29.1,46.1,NH,New England
+83,1996,New Jersey,77266.0,17.8,4.9,24.7,52.6,NJ,Mideast
+84,1996,New Mexico,40834.0,16.7,6.2,24.2,53.0,NM,Southwest
+85,1996,New York,57639.0,19.2,4.0,23.7,53.1,NY,Mideast
+86,1996,North Carolina,57950.0,21.9,3.8,23.1,51.2,NC,Southeast
+87,1996,North Dakota,51225.0,19.5,3.9,25.5,51.2,ND,Plains
+88,1996,Ohio,55458.0,25.7,2.7,21.4,50.2,OH,Great Lakes
+89,1996,Oklahoma,44661.0,21.5,2.5,18.4,57.5,OK,Southwest
+90,1996,Oregon,57772.0,19.1,4.3,27.7,48.9,OR,Far West
+91,1996,Pennsylvania,56807.0,20.3,4.2,23.2,52.3,PA,Mideast
+92,1996,Puerto Rico,,9.4,5.1,16.0,69.5,PR,
+93,1996,Rhode Island,60204.0,17.8,4.7,27.1,50.4,RI,New England
+94,1996,South Carolina,56426.0,21.4,3.0,20.2,55.3,SC,Southeast
+95,1996,South Dakota,48061.0,17.9,2.8,25.2,54.1,SD,Plains
+96,1996,Tennessee,50119.0,25.0,2.9,19.9,52.2,TN,Southeast
+97,1996,Texas,53833.0,17.0,5.9,21.2,55.9,TX,Southwest
+98,1996,United States,57772.0,19.5,4.0,23.8,52.3,US,
+99,1996,Utah,60289.0,13.3,2.6,16.4,67.7,UT,Rocky Mountain
+100,1996,Vermont,52671.0,18.9,5.2,29.2,46.7,VT,New England
+101,1996,Virginia,63826.0,19.6,5.2,22.9,52.3,VA,Southeast
+102,1996,Washington,59700.0,19.1,4.4,26.8,49.7,WA,Far West
+103,1996,West Virginia,41096.0,23.9,2.8,22.9,50.5,WV,Southeast
+104,1996,Wisconsin,65112.0,19.7,5.2,25.9,49.2,WI,Great Lakes
+105,1996,Wyoming,50384.0,20.1,4.5,25.1,50.3,WY,Rocky Mountain
+106,1997,Alabama,50889.0,20.8,3.9,22.0,53.3,AL,Southeast
+107,1997,Alaska,76469.0,22.3,4.2,24.7,48.8,AK,Far West
+108,1997,All States and DC,,19.1,4.3,24.3,51.9,,
+109,1997,Arizona,52165.0,18.4,2.7,13.6,65.3,AZ,Southwest
+110,1997,Arkansas,41684.0,24.8,3.7,20.2,51.4,AR,Southeast
+111,1997,California,63245.0,12.6,5.9,26.9,54.6,CA,Far West
+112,1997,Colorado,68884.0,17.0,5.5,25.5,51.9,CO,Rocky Mountain
+113,1997,Connecticut,70082.0,17.2,4.4,29.1,49.3,CT,New England
+114,1997,Delaware,68565.0,22.3,4.3,26.5,46.9,DE,Mideast
+115,1997,District of Columbia,50763.0,11.8,7.0,15.8,65.4,DC,
+116,1997,Florida,51711.0,19.8,3.8,26.4,50.0,FL,Southeast
+117,1997,Georgia,58416.0,17.6,4.8,15.3,62.3,GA,Southeast
+118,1997,Hawaii,65221.0,14.3,4.4,26.4,54.9,HI,Far West
+119,1997,Idaho,53223.0,15.6,4.3,24.3,55.8,ID,Rocky Mountain
+120,1997,Illinois,65777.0,17.8,5.4,25.8,51.0,IL,Great Lakes
+121,1997,Indiana,61962.0,21.7,4.7,23.5,50.2,IN,Great Lakes
+122,1997,Iowa,53827.0,18.7,4.4,24.0,52.9,IA,Plains
+123,1997,Kansas,58110.0,18.3,4.3,19.4,58.0,KS,Plains
+124,1997,Kentucky,53300.0,27.6,3.1,23.5,45.8,KY,Southeast
+125,1997,Louisiana,52994.0,19.2,5.3,21.9,53.6,LA,Southeast
+126,1997,Maine,52216.0,19.8,2.9,31.0,46.3,ME,New England
+127,1997,Maryland,74384.0,17.6,2.9,22.8,56.8,MD,Mideast
+128,1997,Massachusetts,66956.0,16.4,4.1,29.7,49.8,MA,New England
+129,1997,Michigan,61728.0,21.2,4.8,25.0,48.9,MI,Great Lakes
+130,1997,Minnesota,67818.0,16.7,5.2,22.4,55.7,MN,Plains
+131,1997,Mississippi,45408.0,19.0,4.1,21.3,55.6,MS,Southeast
+132,1997,Missouri,58240.0,24.6,4.0,21.6,49.7,MO,Plains
+133,1997,Montana,46544.0,18.0,2.5,26.6,52.9,MT,Rocky Mountain
+134,1997,Nebraska,55275.0,18.5,3.6,22.7,55.2,NE,Plains
+135,1997,Nevada,61907.0,23.4,4.6,25.4,46.6,NV,Far West
+136,1997,New Hampshire,65323.0,20.0,4.7,31.3,44.0,NH,New England
+137,1997,New Jersey,76513.0,16.6,4.7,26.2,52.4,NJ,Mideast
+138,1997,New Mexico,47936.0,15.5,6.5,25.3,52.6,NM,Southwest
+139,1997,New York,57037.0,19.1,4.0,23.7,53.2,NY,Mideast
+140,1997,North Carolina,57104.0,21.0,4.9,22.4,51.8,NC,Southeast
+141,1997,North Dakota,50446.0,19.7,2.6,24.4,53.3,ND,Plains
+142,1997,Ohio,57573.0,23.2,1.9,22.7,52.2,OH,Great Lakes
+143,1997,Oklahoma,49952.0,21.4,3.2,19.1,56.3,OK,Southwest
+144,1997,Oregon,59346.0,16.2,4.5,30.4,48.9,OR,Far West
+145,1997,Pennsylvania,59776.0,20.0,4.2,22.7,53.1,PA,Mideast
+146,1997,Puerto Rico,,9.4,5.0,15.7,69.9,PR,
+147,1997,Rhode Island,55443.0,19.7,4.6,26.7,49.0,RI,New England
+148,1997,South Carolina,54590.0,20.2,3.2,20.0,56.6,SC,Southeast
+149,1997,South Dakota,47312.0,18.8,5.6,25.8,49.9,SD,Plains
+150,1997,Tennessee,48813.0,23.7,3.3,21.3,51.7,TN,Southeast
+151,1997,Texas,55885.0,16.2,6.3,20.3,57.1,TX,Southwest
+152,1997,United States,58961.0,19.1,4.3,24.3,52.1,US,
+153,1997,Utah,68154.0,11.1,2.6,17.2,69.0,UT,Rocky Mountain
+154,1997,Vermont,55850.0,19.5,3.8,29.1,47.7,VT,New England
+155,1997,Virginia,68444.0,18.8,5.6,25.8,49.8,VA,Southeast
+156,1997,Washington,71001.0,18.6,5.2,26.9,49.3,WA,Far West
+157,1997,West Virginia,43797.0,24.5,2.9,24.3,48.2,WV,Southeast
+158,1997,Wisconsin,63087.0,19.7,3.5,25.3,51.5,WI,Great Lakes
+159,1997,Wyoming,53253.0,19.5,4.5,25.4,50.6,WY,Rocky Mountain
+160,1998,Alabama,57011.0,19.4,5.2,21.5,53.9,AL,Southeast
+161,1998,Alaska,79689.0,19.8,6.3,25.4,48.4,AK,Far West
+162,1998,All States and DC,,18.5,4.5,24.3,52.0,,
+163,1998,Arizona,58306.0,19.8,2.1,17.3,60.9,AZ,Southwest
+164,1998,Arkansas,43490.0,22.2,3.7,24.2,49.9,AR,Southeast
+165,1998,California,64349.0,13.6,5.6,26.2,54.6,CA,Far West
+166,1998,Colorado,73255.0,17.1,5.7,24.3,52.9,CO,Rocky Mountain
+167,1998,Connecticut,73112.0,15.3,5.6,28.2,50.9,CT,New England
+168,1998,Delaware,65173.0,20.7,3.7,24.5,51.0,DE,Mideast
+169,1998,District of Columbia,52558.0,15.1,6.6,17.0,61.3,DC,
+170,1998,Florida,54878.0,18.0,4.0,26.1,51.9,FL,Southeast
+171,1998,Georgia,60782.0,19.7,3.9,21.9,54.5,GA,Southeast
+172,1998,Hawaii,64181.0,15.8,3.7,26.1,54.4,HI,Far West
+173,1998,Idaho,57662.0,15.8,4.5,25.2,54.6,ID,Rocky Mountain
+174,1998,Illinois,67877.0,17.0,6.1,25.0,51.9,IL,Great Lakes
+175,1998,Indiana,62458.0,20.7,5.3,26.0,48.0,IN,Great Lakes
+176,1998,Iowa,58195.0,18.3,5.1,23.7,53.0,IA,Plains
+177,1998,Kansas,57711.0,17.4,3.7,21.8,57.1,KS,Plains
+178,1998,Kentucky,56989.0,28.0,2.8,22.9,46.3,KY,Southeast
+179,1998,Louisiana,49888.0,20.5,5.0,19.8,54.7,LA,Southeast
+180,1998,Maine,56027.0,19.4,2.9,31.3,46.4,ME,New England
+181,1998,Maryland,78626.0,16.7,5.7,24.2,53.4,MD,Mideast
+182,1998,Massachusetts,66567.0,16.6,4.3,28.0,51.1,MA,New England
+183,1998,Michigan,65744.0,22.6,4.8,25.4,47.2,MI,Great Lakes
+184,1998,Minnesota,75341.0,13.3,4.7,18.6,63.4,MN,Plains
+185,1998,Mississippi,45777.0,19.1,5.0,21.9,54.0,MS,Southeast
+186,1998,Missouri,63197.0,22.3,4.0,23.7,50.0,MO,Plains
+187,1998,Montana,49640.0,18.5,2.9,26.7,51.8,MT,Rocky Mountain
+188,1998,Nebraska,57242.0,17.4,4.6,24.4,53.5,NE,Plains
+189,1998,Nevada,62497.0,23.6,6.7,24.0,45.6,NV,Far West
+190,1998,New Hampshire,70675.0,18.2,5.0,28.5,48.2,NH,New England
+191,1998,New Jersey,78328.0,15.2,3.9,26.4,54.5,NJ,Mideast
+192,1998,New Mexico,49586.0,16.2,6.4,24.3,53.2,NM,Southwest
+193,1998,New York,58784.0,18.4,5.7,24.3,51.6,NY,Mideast
+194,1998,North Carolina,56338.0,20.5,4.2,23.4,51.9,NC,Southeast
+195,1998,North Dakota,47639.0,17.0,3.0,28.2,51.8,ND,Plains
+196,1998,Ohio,61191.0,21.6,4.5,23.6,50.3,OH,Great Lakes
+197,1998,Oklahoma,53020.0,20.2,3.6,19.6,56.5,OK,Southwest
+198,1998,Oregon,61414.0,16.3,4.8,27.4,51.6,OR,Far West
+199,1998,Pennsylvania,61333.0,19.4,4.4,22.9,53.3,PA,Mideast
+200,1998,Puerto Rico,,10.1,5.2,16.8,67.9,PR,
+201,1998,Rhode Island,63959.0,18.2,4.4,29.0,48.4,RI,New England
+202,1998,South Carolina,52297.0,19.6,5.1,20.7,54.6,SC,Southeast
+203,1998,South Dakota,51540.0,22.0,5.2,20.4,52.4,SD,Plains
+204,1998,Tennessee,53592.0,22.7,3.3,21.5,52.4,TN,Southeast
+205,1998,Texas,56252.0,15.6,6.3,22.6,55.5,TX,Southwest
+206,1998,United States,61128.0,18.5,4.6,24.3,52.2,US,
+207,1998,Utah,69639.0,10.5,3.7,18.7,67.1,UT,Rocky Mountain
+208,1998,Vermont,61894.0,18.6,3.7,28.6,49.1,VT,New England
+209,1998,Virginia,68154.0,18.1,4.8,23.2,53.9,VA,Southeast
+210,1998,Washington,74547.0,16.9,4.5,27.6,51.1,WA,Far West
+211,1998,West Virginia,41979.0,24.9,3.1,23.8,48.3,WV,Southeast
+212,1998,Wisconsin,64967.0,18.7,4.7,29.4,47.2,WI,Great Lakes
+213,1998,Wyoming,55414.0,19.0,3.9,25.2,52.0,WY,Rocky Mountain
+214,1999,Alabama,55799.0,18.1,5.3,24.2,52.3,AL,Southeast
+215,1999,Alaska,79111.0,19.2,8.1,25.7,47.0,AK,Far West
+216,1999,All States and DC,,18.0,4.8,24.0,52.4,,
+217,1999,Arizona,56944.0,17.9,2.2,17.8,62.1,AZ,Southwest
+218,1999,Arkansas,45688.0,22.6,4.6,23.1,49.7,AR,Southeast
+219,1999,California,67156.0,12.5,6.2,26.4,54.9,CA,Far West
+220,1999,Colorado,74156.0,17.5,4.9,25.8,51.7,CO,Rocky Mountain
+221,1999,Connecticut,77875.0,17.5,5.3,25.3,51.9,CT,New England
+222,1999,Delaware,71772.0,20.7,4.8,23.9,50.6,DE,Mideast
+223,1999,District of Columbia,59523.0,13.4,7.1,16.1,63.3,DC,
+224,1999,Florida,55153.0,16.3,4.3,26.8,52.6,FL,Southeast
+225,1999,Georgia,60685.0,18.3,5.4,22.5,53.7,GA,Southeast
+226,1999,Hawaii,68503.0,14.4,4.1,22.9,58.6,HI,Far West
+227,1999,Idaho,55105.0,16.0,5.5,24.3,54.2,ID,Rocky Mountain
+228,1999,Illinois,71313.0,19.8,4.5,23.8,51.9,IL,Great Lakes
+229,1999,Indiana,62860.0,22.5,4.5,22.0,51.0,IN,Great Lakes
+230,1999,Iowa,63260.0,18.9,4.6,24.6,51.9,IA,Plains
+231,1999,Kansas,57488.0,18.1,3.0,22.5,56.4,KS,Plains
+232,1999,Kentucky,51931.0,25.6,4.2,23.2,47.1,KY,Southeast
+233,1999,Louisiana,50263.0,18.7,4.8,20.7,55.8,LA,Southeast
+234,1999,Maine,59818.0,19.8,3.5,29.5,47.2,ME,New England
+235,1999,Maryland,80356.0,15.5,4.8,24.2,55.5,MD,Mideast
+236,1999,Massachusetts,67735.0,15.2,4.1,25.8,55.0,MA,New England
+237,1999,Michigan,70942.0,19.5,5.6,23.6,51.3,MI,Great Lakes
+238,1999,Minnesota,72403.0,15.1,4.4,20.0,60.5,MN,Plains
+239,1999,Mississippi,49992.0,18.5,4.4,20.3,56.8,MS,Southeast
+240,1999,Missouri,63699.0,22.7,4.3,24.7,48.2,MO,Plains
+241,1999,Montana,47775.0,16.0,4.2,27.7,52.1,MT,Rocky Mountain
+242,1999,Nebraska,59455.0,18.2,5.0,22.1,54.7,NE,Plains
+243,1999,Nevada,63819.0,24.3,7.2,29.0,39.5,NV,Far West
+244,1999,New Hampshire,70890.0,18.0,4.3,29.0,48.7,NH,New England
+245,1999,New Jersey,76553.0,14.6,6.0,21.3,58.1,NJ,Mideast
+246,1999,New Mexico,50139.0,16.4,6.0,24.6,52.9,NM,Southwest
+247,1999,New York,61553.0,17.0,4.8,23.1,55.1,NY,Mideast
+248,1999,North Carolina,57343.0,21.0,4.2,23.2,51.6,NC,Southeast
+249,1999,North Dakota,50276.0,17.0,5.1,24.7,53.1,ND,Plains
+250,1999,Ohio,60783.0,23.6,4.0,24.0,48.4,OH,Great Lakes
+251,1999,Oklahoma,50307.0,22.4,2.8,18.7,56.1,OK,Southwest
+252,1999,Oregon,62523.0,16.1,5.4,28.1,50.5,OR,Far West
+253,1999,Pennsylvania,58119.0,18.4,4.7,23.3,53.6,PA,Mideast
+254,1999,Puerto Rico,,9.7,4.0,15.3,71.0,PR,
+255,1999,Rhode Island,65755.0,17.8,4.4,25.6,52.2,RI,New England
+256,1999,South Carolina,56124.0,18.0,5.6,20.4,56.0,SC,Southeast
+257,1999,South Dakota,55148.0,17.6,4.8,25.1,52.4,SD,Plains
+258,1999,Tennessee,56216.0,21.9,2.9,20.7,54.4,TN,Southeast
+259,1999,Texas,59550.0,15.0,7.5,23.3,54.3,TX,Southwest
+260,1999,United States,62641.0,18.0,4.8,24.0,52.5,US,
+261,1999,Utah,70882.0,10.3,3.7,17.3,68.8,UT,Rocky Mountain
+262,1999,Vermont,64008.0,16.9,4.8,26.7,51.6,VT,New England
+263,1999,Virginia,70333.0,17.0,4.3,25.3,53.3,VA,Southeast
+264,1999,Washington,69994.0,17.0,5.3,26.8,50.8,WA,Far West
+265,1999,West Virginia,45095.0,23.8,3.3,23.8,49.0,WV,Southeast
+266,1999,Wisconsin,70293.0,17.9,5.8,28.6,47.7,WI,Great Lakes
+267,1999,Wyoming,57334.0,19.1,4.8,24.9,51.2,WY,Rocky Mountain
+268,2000,Alabama,52737.0,19.3,5.9,24.0,50.8,AL,Southeast
+269,2000,Alaska,78675.0,18.6,6.4,28.1,46.8,AK,Far West
+270,2000,All States and DC,,17.7,5.1,24.3,52.3,,
+271,2000,Arizona,59226.0,13.5,5.2,21.7,59.7,AZ,Southwest
+272,2000,Arkansas,44211.0,19.9,5.2,24.5,50.4,AR,Southeast
+273,2000,California,69696.0,12.1,5.1,26.0,56.7,CA,Far West
+274,2000,Colorado,71816.0,15.0,5.0,26.2,53.8,CO,Rocky Mountain
+275,2000,Connecticut,74693.0,15.3,4.6,27.8,52.3,CT,New England
+276,2000,Delaware,74980.0,18.6,4.2,23.9,53.2,DE,Mideast
+277,2000,District of Columbia,61368.0,13.9,7.0,22.0,57.1,DC,
+278,2000,Florida,57846.0,17.7,5.5,27.4,49.4,FL,Southeast
+279,2000,Georgia,62379.0,18.4,5.1,22.7,53.8,GA,Southeast
+280,2000,Hawaii,76738.0,15.8,3.9,24.2,56.2,HI,Far West
+281,2000,Idaho,55993.0,16.9,5.4,24.6,53.1,ID,Rocky Mountain
+282,2000,Illinois,68577.0,16.2,6.2,22.6,55.1,IL,Great Lakes
+283,2000,Indiana,60837.0,22.4,4.6,22.6,50.5,IN,Great Lakes
+284,2000,Iowa,61025.0,18.3,4.9,23.1,53.7,IA,Plains
+285,2000,Kansas,61126.0,16.9,4.2,23.6,55.4,KS,Plains
+286,2000,Kentucky,53989.0,26.8,3.7,23.0,46.5,KY,Southeast
+287,2000,Louisiana,45731.0,18.6,5.5,19.5,56.5,LA,Southeast
+288,2000,Maine,55479.0,20.7,3.1,29.9,46.3,ME,New England
+289,2000,Maryland,81188.0,15.2,5.3,23.5,56.0,MD,Mideast
+290,2000,Massachusetts,69603.0,15.3,4.7,28.2,51.9,MA,New England
+291,2000,Michigan,67755.0,19.1,5.0,25.4,50.4,MI,Great Lakes
+292,2000,Minnesota,80765.0,15.2,4.5,23.1,57.1,MN,Plains
+293,2000,Mississippi,51062.0,18.8,4.7,20.5,56.0,MS,Southeast
+294,2000,Missouri,67137.0,22.6,4.6,24.7,48.1,MO,Plains
+295,2000,Montana,48796.0,15.9,2.9,29.8,51.4,MT,Rocky Mountain
+296,2000,Nebraska,62155.0,16.5,4.8,24.3,54.5,NE,Plains
+297,2000,Nevada,68121.0,22.0,7.1,26.7,44.3,NV,Far West
+298,2000,New Hampshire,75815.0,19.7,5.6,29.7,45.0,NH,New England
+299,2000,New Jersey,75039.0,14.8,6.2,22.4,56.6,NJ,Mideast
+300,2000,New Mexico,52244.0,16.9,6.6,25.8,50.6,NM,Southwest
+301,2000,New York,60657.0,15.9,5.7,25.6,52.9,NY,Mideast
+302,2000,North Carolina,57044.0,20.7,5.4,24.3,49.6,NC,Southeast
+303,2000,North Dakota,53588.0,17.5,5.8,23.4,53.4,ND,Plains
+304,2000,Ohio,63959.0,21.1,5.1,23.2,50.6,OH,Great Lakes
+305,2000,Oklahoma,48283.0,19.8,3.5,19.3,57.4,OK,Southwest
+306,2000,Oregon,63270.0,15.3,5.4,28.3,50.9,OR,Far West
+307,2000,Pennsylvania,62789.0,19.3,5.1,24.5,51.1,PA,Mideast
+308,2000,Puerto Rico,,9.2,3.9,15.2,71.6,PR,
+309,2000,Rhode Island,62820.0,18.3,5.1,26.7,49.9,RI,New England
+310,2000,South Carolina,55932.0,18.8,6.2,21.9,53.2,SC,Southeast
+311,2000,South Dakota,54301.0,16.8,5.1,24.6,53.5,SD,Plains
+312,2000,Tennessee,50760.0,21.6,4.0,22.2,52.1,TN,Southeast
+313,2000,Texas,57478.0,15.4,6.5,21.9,56.2,TX,Southwest
+314,2000,United States,62512.0,17.6,5.1,24.3,52.6,US,
+315,2000,Utah,70789.0,9.6,3.3,18.4,68.8,UT,Rocky Mountain
+316,2000,Vermont,58945.0,16.5,4.9,30.0,48.5,VT,New England
+317,2000,Virginia,70213.0,16.1,5.3,23.3,55.3,VA,Southeast
+318,2000,Washington,63308.0,14.8,5.9,28.8,50.5,WA,Far West
+319,2000,West Virginia,43785.0,23.1,3.0,25.3,48.5,WV,Southeast
+320,2000,Wisconsin,67124.0,18.1,6.0,27.1,48.8,WI,Great Lakes
+321,2000,Wyoming,58997.0,18.2,5.6,25.1,51.1,WY,Rocky Mountain
+322,2001,Alabama,50895.0,17.4,6.5,23.4,52.8,AL,Southeast
+323,2001,Alaska,83034.0,19.0,7.2,26.9,46.9,AK,Far West
+324,2001,All States and DC,,17.4,5.7,24.7,51.3,,
+325,2001,Arizona,61815.0,15.5,6.0,25.4,53.0,AZ,Southwest
+326,2001,Arkansas,48259.0,20.1,5.4,23.6,50.8,AR,Southeast
+327,2001,California,68413.0,12.1,5.1,25.9,56.9,CA,Far West
+328,2001,Colorado,71503.0,15.4,6.9,26.0,51.7,CO,Rocky Mountain
+329,2001,Connecticut,77221.0,14.9,5.8,28.9,50.5,CT,New England
+330,2001,Delaware,71800.0,19.0,6.0,25.4,49.5,DE,Mideast
+331,2001,District of Columbia,59593.0,12.2,8.5,23.3,55.9,DC,
+332,2001,Florida,52720.0,17.5,4.9,27.5,50.1,FL,Southeast
+333,2001,Georgia,61630.0,17.5,6.1,21.2,55.1,GA,Southeast
+334,2001,Guam,,26.5,4.7,11.8,57.0,GU,
+335,2001,Hawaii,68669.0,16.5,4.0,24.0,55.5,HI,Far West
+336,2001,Idaho,55355.0,15.2,4.4,24.4,56.0,ID,Rocky Mountain
+337,2001,Illinois,66833.0,17.4,6.3,23.7,52.5,IL,Great Lakes
+338,2001,Indiana,58449.0,21.5,5.9,22.6,50.0,IN,Great Lakes
+339,2001,Iowa,59314.0,17.0,5.1,24.6,53.2,IA,Plains
+340,2001,Kansas,59949.0,16.9,5.4,24.3,53.5,KS,Plains
+341,2001,Kentucky,55638.0,26.2,4.7,23.6,45.5,KY,Southeast
+342,2001,Louisiana,48234.0,19.0,5.6,19.9,55.4,LA,Southeast
+343,2001,Maine,52997.0,18.2,5.7,31.9,44.2,ME,New England
+344,2001,Maryland,77486.0,15.3,5.8,24.7,54.2,MD,Mideast
+345,2001,Massachusetts,75637.0,14.8,4.7,29.9,50.6,MA,New England
+346,2001,Michigan,65206.0,19.7,5.9,25.7,48.7,MI,Great Lakes
+347,2001,Minnesota,76257.0,16.9,5.3,28.3,49.5,MN,Plains
+348,2001,Mississippi,43659.0,19.6,5.7,21.1,53.6,MS,Southeast
+349,2001,Missouri,59839.0,20.0,5.9,24.5,49.6,MO,Plains
+350,2001,Montana,46503.0,16.6,5.4,27.3,50.8,MT,Rocky Mountain
+351,2001,Nebraska,63128.0,15.8,4.4,22.3,57.4,NE,Plains
+352,2001,Nevada,65722.0,20.8,6.1,26.2,46.9,NV,Far West
+353,2001,New Hampshire,74303.0,19.0,5.1,28.8,47.1,NH,New England
+354,2001,New Jersey,74940.0,15.0,6.1,26.2,52.7,NJ,Mideast
+355,2001,New Mexico,47948.0,16.1,7.7,24.9,51.2,NM,Southwest
+356,2001,New York,60961.0,16.6,6.6,23.8,53.0,NY,Mideast
+357,2001,North Carolina,55240.0,21.3,4.5,23.8,50.4,NC,Southeast
+358,2001,North Dakota,51811.0,15.6,6.5,24.8,53.1,ND,Plains
+359,2001,Ohio,60485.0,21.9,5.8,23.4,49.0,OH,Great Lakes
+360,2001,Oklahoma,51545.0,23.1,5.6,21.8,49.5,OK,Southwest
+361,2001,Oregon,59744.0,15.0,5.5,28.7,50.9,OR,Far West
+362,2001,Pennsylvania,62966.0,18.9,5.6,24.2,51.3,PA,Mideast
+363,2001,Puerto Rico,,8.0,4.5,17.0,70.5,PR,
+364,2001,Rhode Island,66185.0,17.6,6.3,28.9,47.3,RI,New England
+365,2001,South Carolina,54624.0,19.3,6.7,21.3,52.6,SC,Southeast
+366,2001,South Dakota,57425.0,16.6,5.8,25.2,52.5,SD,Plains
+367,2001,Tennessee,51797.0,19.7,4.7,19.1,56.6,TN,Southeast
+368,2001,Texas,59146.0,15.5,6.9,20.7,56.9,TX,Southwest
+369,2001,United States,61126.0,17.4,5.6,24.7,51.8,US,
+370,2001,Utah,68529.0,9.1,4.1,17.1,69.7,UT,Rocky Mountain
+371,2001,Vermont,59050.0,16.9,5.5,30.0,47.6,VT,New England
+372,2001,Virgin Islands,,6.9,2.7,12.6,77.8,VI,
+373,2001,Virginia,72725.0,17.9,4.7,24.7,52.8,VA,Southeast
+374,2001,Washington,61505.0,16.4,6.0,27.6,49.9,WA,Far West
+375,2001,West Virginia,42952.0,23.5,4.6,24.7,47.1,WV,Southeast
+376,2001,Wisconsin,65639.0,18.2,5.4,28.7,47.8,WI,Great Lakes
+377,2001,Wyoming,57494.0,17.3,4.9,26.0,51.9,WY,Rocky Mountain
+378,2002,Alabama,53586.0,19.2,5.2,23.2,52.4,AL,Southeast
+379,2002,Alaska,75206.0,21.9,7.4,25.6,45.0,AK,Far West
+380,2002,All States and DC,,17.8,5.0,24.7,52.0,,
+381,2002,Arizona,56623.0,17.8,5.6,24.4,52.2,AZ,Southwest
+382,2002,Arkansas,46153.0,21.5,4.8,24.9,48.8,AR,Southeast
+383,2002,California,67600.0,11.1,5.3,23.9,59.6,CA,Far West
+384,2002,Colorado,68822.0,15.6,4.7,25.6,54.0,CO,Rocky Mountain
+385,2002,Connecticut,76080.0,14.4,5.0,30.4,50.2,CT,New England
+386,2002,Delaware,70754.0,19.5,5.1,26.3,49.0,DE,Mideast
+387,2002,District of Columbia,55677.0,13.4,7.0,20.4,59.2,DC,
+388,2002,Florida,54186.0,17.8,4.2,25.1,52.9,FL,Southeast
+389,2002,Georgia,61191.0,17.7,5.6,22.4,54.3,GA,Southeast
+390,2002,Guam,,24.8,7.1,15.5,52.6,GU,
+391,2002,Hawaii,67409.0,17.1,3.9,24.3,54.7,HI,Far West
+392,2002,Idaho,53746.0,16.3,4.3,24.2,55.2,ID,Rocky Mountain
+393,2002,Illinois,60864.0,17.8,5.1,22.9,54.3,IL,Great Lakes
+394,2002,Indiana,58494.0,23.0,4.7,23.3,49.1,IN,Great Lakes
+395,2002,Iowa,58497.0,18.8,4.3,23.4,53.4,IA,Plains
+396,2002,Kansas,60734.0,17.6,4.5,24.3,53.6,KS,Plains
+397,2002,Kentucky,52388.0,29.1,3.5,22.0,45.5,KY,Southeast
+398,2002,Louisiana,48463.0,19.0,4.9,19.2,57.0,LA,Southeast
+399,2002,Maine,52518.0,19.6,4.0,33.4,43.1,ME,New England
+400,2002,Maryland,80383.0,16.3,5.6,23.7,54.4,MD,Mideast
+401,2002,Massachusetts,71046.0,14.4,4.5,29.1,52.0,MA,New England
+402,2002,Michigan,60871.0,19.3,4.8,27.1,48.7,MI,Great Lakes
+403,2002,Minnesota,77839.0,16.2,5.5,26.8,51.4,MN,Plains
+404,2002,Mississippi,44009.0,21.4,5.9,20.0,52.7,MS,Southeast
+405,2002,Missouri,60958.0,22.0,4.5,25.5,48.0,MO,Plains
+406,2002,Montana,49642.0,15.7,5.5,26.1,52.7,MT,Rocky Mountain
+407,2002,Nebraska,60987.0,17.8,4.9,22.9,54.4,NE,Plains
+408,2002,Nevada,64068.0,21.1,5.0,24.7,49.2,NV,Far West
+409,2002,New Hampshire,78836.0,18.6,4.6,30.2,46.6,NH,New England
+410,2002,New Jersey,77762.0,14.0,5.0,26.0,55.0,NJ,Mideast
+411,2002,New Mexico,50528.0,15.0,6.2,26.0,52.8,NM,Southwest
+412,2002,New York,59804.0,16.9,5.4,25.0,52.7,NY,Mideast
+413,2002,North Carolina,52036.0,21.2,5.1,24.1,49.7,NC,Southeast
+414,2002,North Dakota,51587.0,16.4,5.1,26.5,52.0,ND,Plains
+415,2002,Ohio,60827.0,21.4,5.2,24.7,48.7,OH,Great Lakes
+416,2002,Oklahoma,51955.0,21.8,4.8,21.8,51.6,OK,Southwest
+417,2002,Oregon,59570.0,17.3,5.1,28.1,49.4,OR,Far West
+418,2002,Pennsylvania,60562.0,19.5,5.1,25.7,49.7,PA,Mideast
+419,2002,Puerto Rico,,8.8,4.4,16.9,69.8,PR,
+420,2002,Rhode Island,60447.0,17.5,4.9,29.6,48.0,RI,New England
+421,2002,South Carolina,53884.0,21.0,5.6,22.6,50.9,SC,Southeast
+422,2002,South Dakota,53971.0,17.5,5.1,22.4,55.0,SD,Plains
+423,2002,Tennessee,52770.0,22.9,4.9,18.7,53.6,TN,Southeast
+424,2002,Texas,57215.0,16.6,6.2,20.9,56.2,TX,Southwest
+425,2002,United States,60435.0,17.8,5.0,24.4,52.3,US,
+426,2002,Utah,68205.0,9.9,2.8,17.1,70.1,UT,Rocky Mountain
+427,2002,Vermont,61276.0,16.7,4.4,32.3,46.5,VT,New England
+428,2002,Virgin Islands,,7.0,2.4,12.1,78.5,VI,
+429,2002,Virginia,70727.0,19.4,5.3,22.4,53.0,VA,Southeast
+430,2002,Washington,64388.0,16.4,5.0,28.5,50.1,WA,Far West
+431,2002,West Virginia,41838.0,23.8,4.7,24.2,47.4,WV,Southeast
+432,2002,Wisconsin,65414.0,18.5,4.9,27.3,49.4,WI,Great Lakes
+433,2002,Wyoming,56665.0,19.2,4.4,26.5,49.8,WY,Rocky Mountain
+434,2003,Alabama,51912.0,19.7,5.7,23.9,50.8,AL,Southeast
+435,2003,Alaska,72230.0,19.3,7.0,26.1,47.7,AK,Far West
+436,2003,All States and DC,,16.9,5.1,25.2,52.0,,
+437,2003,Arizona,57361.0,15.4,5.5,26.2,53.0,AZ,Southwest
+438,2003,Arkansas,44592.0,20.5,4.2,25.4,49.8,AR,Southeast
+439,2003,California,68695.0,11.3,5.5,25.2,58.0,CA,Far West
+440,2003,Colorado,69587.0,13.8,4.7,27.2,54.2,CO,Rocky Mountain
+441,2003,Connecticut,76589.0,13.9,4.7,31.2,50.2,CT,New England
+442,2003,Delaware,68304.0,16.9,5.0,28.1,50.0,DE,Mideast
+443,2003,District of Columbia,62765.0,13.9,8.1,22.2,55.8,DC,
+444,2003,Florida,54304.0,17.4,6.5,26.8,49.3,FL,Southeast
+445,2003,Georgia,59134.0,16.5,6.2,21.7,55.6,GA,Southeast
+446,2003,Guam,,26.3,7.8,14.3,51.7,GU,
+447,2003,Hawaii,72226.0,14.1,3.2,24.1,58.6,HI,Far West
+448,2003,Idaho,59042.0,15.0,4.0,23.5,57.6,ID,Rocky Mountain
+449,2003,Illinois,62917.0,17.1,6.3,24.4,52.2,IL,Great Lakes
+450,2003,Indiana,59116.0,21.1,5.0,24.4,49.5,IN,Great Lakes
+451,2003,Iowa,57665.0,16.2,5.4,24.5,53.8,IA,Plains
+452,2003,Kansas,61633.0,16.3,4.1,23.0,56.6,KS,Plains
+453,2003,Kentucky,51467.0,26.8,4.0,22.5,46.7,KY,Southeast
+454,2003,Louisiana,46689.0,20.4,6.2,20.7,52.7,LA,Southeast
+455,2003,Maine,51714.0,19.7,3.9,31.1,45.2,ME,New England
+456,2003,Maryland,72895.0,15.2,4.9,23.7,56.2,MD,Mideast
+457,2003,Massachusetts,71001.0,14.5,4.6,31.0,49.9,MA,New England
+458,2003,Michigan,62734.0,20.7,5.4,25.8,48.1,MI,Great Lakes
+459,2003,Minnesota,73604.0,15.9,5.2,28.3,50.6,MN,Plains
+460,2003,Mississippi,45604.0,19.7,5.8,20.7,53.8,MS,Southeast
+461,2003,Missouri,60979.0,23.1,4.1,24.3,48.5,MO,Plains
+462,2003,Montana,47527.0,14.8,5.1,28.4,51.6,MT,Rocky Mountain
+463,2003,Nebraska,61274.0,16.0,5.3,24.0,54.7,NE,Plains
+464,2003,Nevada,62960.0,20.3,4.9,25.2,49.7,NV,Far West
+465,2003,New Hampshire,77428.0,17.0,4.2,31.0,47.8,NH,New England
+466,2003,New Jersey,78094.0,14.0,5.4,26.3,54.3,NJ,Mideast
+467,2003,New Mexico,48916.0,15.8,6.2,25.9,52.1,NM,Southwest
+468,2003,New York,59621.0,16.5,5.1,25.4,53.0,NY,Mideast
+469,2003,North Carolina,51945.0,18.8,6.0,23.2,52.0,NC,Southeast
+470,2003,North Dakota,56308.0,16.1,4.4,25.6,53.9,ND,Plains
+471,2003,Ohio,60641.0,19.5,5.7,23.8,51.0,OH,Great Lakes
+472,2003,Oklahoma,50026.0,20.3,4.8,22.1,52.7,OK,Southwest
+473,2003,Oregon,58019.0,15.8,5.2,26.7,52.4,OR,Far West
+474,2003,Pennsylvania,59823.0,20.2,5.3,25.2,49.4,PA,Mideast
+475,2003,Puerto Rico,,8.9,4.6,17.7,68.8,PR,
+476,2003,Rhode Island,62301.0,17.2,5.1,29.1,48.5,RI,New England
+477,2003,South Carolina,53617.0,19.6,5.9,23.0,51.5,SC,Southeast
+478,2003,South Dakota,55070.0,16.4,6.3,25.3,52.0,SD,Plains
+479,2003,Tennessee,52285.0,21.1,4.5,18.9,55.4,TN,Southeast
+480,2003,Texas,54721.0,15.6,6.5,21.6,56.3,TX,Southwest
+481,2003,United States,60360.0,16.7,5.1,25.2,52.1,US,
+482,2003,Utah,68660.0,8.6,3.3,16.6,71.5,UT,Rocky Mountain
+483,2003,Vermont,60280.0,15.4,4.2,30.4,50.1,VT,New England
+484,2003,Virgin Islands,,7.9,2.0,13.6,76.4,VI,
+485,2003,Virginia,76335.0,17.2,4.8,24.0,54.0,VA,Southeast
+486,2003,Washington,66198.0,14.6,5.0,26.2,54.2,WA,Far West
+487,2003,West Virginia,45652.0,22.6,4.8,25.8,46.9,WV,Southeast
+488,2003,Wisconsin,64472.0,17.3,4.7,27.3,50.7,WI,Great Lakes
+489,2003,Wyoming,59297.0,19.8,4.8,26.2,49.1,WY,Rocky Mountain
+490,2004,Alabama,49697.0,18.7,6.1,20.9,54.3,AL,Southeast
+491,2004,Alaska,74707.0,16.4,8.5,24.0,51.2,AK,Far West
+492,2004,All States and DC,,15.8,5.4,24.1,54.6,,
+493,2004,Arizona,59488.0,13.5,5.1,24.5,57.0,AZ,Southwest
+494,2004,Arkansas,47465.0,19.4,6.2,24.7,49.8,AR,Southeast
+495,2004,California,66782.0,10.0,4.7,24.2,61.1,CA,Far West
+496,2004,Colorado,69040.0,13.8,6.2,24.4,55.6,CO,Rocky Mountain
+497,2004,Connecticut,74757.0,13.2,4.9,30.0,51.9,CT,New England
+498,2004,Delaware,65191.0,18.8,5.6,25.2,50.5,DE,Mideast
+499,2004,District of Columbia,58952.0,12.5,8.4,19.2,59.9,DC,
+500,2004,Florida,54996.0,14.6,5.7,25.8,53.9,FL,Southeast
+501,2004,Georgia,55605.0,15.0,5.0,20.9,59.1,GA,Southeast
+502,2004,Hawaii,76307.0,,,,,HI,Far West
+503,2004,Idaho,60183.0,13.4,4.1,23.4,59.2,ID,Rocky Mountain
+504,2004,Illinois,62515.0,15.4,6.8,21.5,56.2,IL,Great Lakes
+505,2004,Indiana,57430.0,19.5,5.3,22.6,52.5,IN,Great Lakes
+506,2004,Iowa,58871.0,16.3,4.6,21.4,57.8,IA,Plains
+507,2004,Kansas,55717.0,15.3,4.5,21.7,58.5,KS,Plains
+508,2004,Kentucky,48314.0,23.0,4.5,20.4,52.1,KY,Southeast
+509,2004,Louisiana,49425.0,16.9,6.6,20.0,56.5,LA,Southeast
+510,2004,Maine,56073.0,17.0,3.9,31.3,47.8,ME,New England
+511,2004,Maryland,77475.0,14.6,5.0,23.0,57.5,MD,Mideast
+512,2004,Massachusetts,70577.0,13.7,4.8,26.9,54.6,MA,New England
+513,2004,Michigan,57331.0,17.2,6.1,25.2,51.6,MI,Great Lakes
+514,2004,Minnesota,76119.0,15.2,5.5,26.8,52.5,MN,Plains
+515,2004,Mississippi,47154.0,18.1,6.5,19.3,56.2,MS,Southeast
+516,2004,Missouri,57170.0,18.5,5.6,24.2,51.7,MO,Plains
+517,2004,Montana,46070.0,15.8,4.6,25.1,54.5,MT,Rocky Mountain
+518,2004,Nebraska,59407.0,14.9,5.4,21.2,58.6,NE,Plains
+519,2004,Nevada,64044.0,16.5,6.8,24.4,52.3,NV,Far West
+520,2004,New Hampshire,77084.0,16.5,5.1,28.5,49.8,NH,New England
+521,2004,New Jersey,74995.0,13.0,5.8,24.4,56.8,NJ,Mideast
+522,2004,New Mexico,53676.0,13.2,7.1,24.1,55.6,NM,Southwest
+523,2004,New York,60578.0,14.2,5.7,24.2,55.9,NY,Mideast
+524,2004,North Carolina,54593.0,17.6,5.5,21.2,55.6,NC,Southeast
+525,2004,North Dakota,53212.0,14.8,5.1,23.6,56.5,ND,Plains
+526,2004,Ohio,58415.0,20.8,5.0,22.1,52.0,OH,Great Lakes
+527,2004,Oklahoma,53747.0,19.9,6.2,22.5,51.4,OK,Southwest
+528,2004,Oregon,55619.0,14.3,5.8,24.7,55.3,OR,Far West
+529,2004,Pennsylvania,59841.0,17.5,5.3,23.9,53.4,PA,Mideast
+530,2004,Puerto Rico,,8.2,4.4,15.2,72.2,PR,
+531,2004,Rhode Island,65036.0,15.8,5.5,28.8,49.9,RI,New England
+532,2004,South Carolina,52494.0,18.0,6.4,21.9,53.8,SC,Southeast
+533,2004,South Dakota,55772.0,14.1,6.3,23.6,56.0,SD,Plains
+534,2004,Tennessee,51654.0,21.5,4.6,22.2,51.7,TN,Southeast
+535,2004,Texas,56166.0,13.6,6.9,20.2,59.3,TX,Southwest
+536,2004,United States,60150.0,15.6,5.4,24.0,55.0,US,
+537,2004,Utah,69020.0,7.8,2.7,15.8,73.8,UT,Rocky Mountain
+538,2004,Vermont,64214.0,15.0,5.0,30.6,49.4,VT,New England
+539,2004,Virgin Islands,,5.9,3.5,9.9,80.7,VI,
+540,2004,Virginia,69386.0,15.9,5.0,23.3,55.8,VA,Southeast
+541,2004,Washington,67732.0,14.0,5.3,25.3,55.5,WA,Far West
+542,2004,West Virginia,45279.0,21.8,5.1,25.1,48.0,WV,Southeast
+543,2004,Wisconsin,62047.0,16.5,5.4,24.3,53.8,WI,Great Lakes
+544,2004,Wyoming,61593.0,16.5,5.2,24.9,53.4,WY,Rocky Mountain
+545,2005,Alabama,48752.0,18.8,6.0,20.9,54.3,AL,Southeast
+546,2005,Alaska,73346.0,18.8,6.2,23.8,51.2,AK,Far West
+547,2005,All States and DC,,15.3,5.3,24.8,54.0,,
+548,2005,Arizona,59375.0,13.7,6.6,25.5,54.3,AZ,Southwest
+549,2005,Arkansas,48106.0,18.1,5.4,24.9,51.6,AR,Southeast
+550,2005,California,67918.0,9.8,5.3,23.3,61.5,CA,Far West
+551,2005,Colorado,66204.0,13.5,6.3,24.8,55.4,CO,Rocky Mountain
+552,2005,Connecticut,74585.0,12.4,4.1,29.4,54.1,CT,New England
+553,2005,Delaware,67236.0,15.5,5.2,27.2,52.1,DE,Mideast
+554,2005,District of Columbia,59044.0,11.6,8.5,21.5,58.5,DC,
+555,2005,Florida,56416.0,15.2,6.5,26.7,51.6,FL,Southeast
+556,2005,Georgia,60269.0,16.4,5.8,21.9,56.0,GA,Southeast
+557,2005,Hawaii,78195.0,12.1,4.9,26.2,56.8,HI,Far West
+558,2005,Idaho,57972.0,13.3,4.6,22.7,59.3,ID,Rocky Mountain
+559,2005,Illinois,63513.0,14.2,5.7,24.0,56.1,IL,Great Lakes
+560,2005,Indiana,55690.0,20.8,6.4,22.9,49.8,IN,Great Lakes
+561,2005,Iowa,61022.0,16.1,4.3,24.8,54.8,IA,Plains
+562,2005,Kansas,55152.0,13.6,4.2,24.4,57.8,KS,Plains
+563,2005,Kentucky,48160.0,23.5,5.2,24.0,47.3,KY,Southeast
+564,2005,Louisiana,48865.0,16.4,6.1,21.0,56.5,LA,Southeast
+565,2005,Maine,57640.0,15.9,4.9,30.1,49.1,ME,New England
+566,2005,Maryland,79410.0,13.4,5.5,22.9,58.3,MD,Mideast
+567,2005,Massachusetts,73511.0,13.5,4.6,27.5,54.5,MA,New England
+568,2005,Michigan,60278.0,16.7,5.4,26.0,52.0,MI,Great Lakes
+569,2005,Minnesota,71147.0,14.9,5.1,28.7,51.2,MN,Plains
+570,2005,Mississippi,43142.0,18.6,5.1,20.9,55.5,MS,Southeast
+571,2005,Missouri,56411.0,18.5,4.9,24.2,52.4,MO,Plains
+572,2005,Montana,48966.0,14.5,4.7,28.5,52.3,MT,Rocky Mountain
+573,2005,Nebraska,62890.0,16.1,5.2,22.7,56.1,NE,Plains
+574,2005,Nevada,63265.0,16.6,6.5,24.0,52.9,NV,Far West
+575,2005,New Hampshire,74780.0,15.4,5.0,29.5,50.1,NH,New England
+576,2005,New Jersey,83158.0,12.8,5.2,25.5,56.5,NJ,Mideast
+577,2005,New Mexico,51110.0,14.6,6.9,24.4,54.1,NM,Southwest
+578,2005,New York,61909.0,14.6,5.9,25.6,54.0,NY,Mideast
+579,2005,North Carolina,55190.0,17.1,5.5,23.6,53.8,NC,Southeast
+580,2005,North Dakota,55369.0,15.0,5.2,25.5,54.4,ND,Plains
+581,2005,Ohio,58008.0,17.6,4.8,25.8,51.9,OH,Great Lakes
+582,2005,Oklahoma,49402.0,19.0,6.0,24.0,50.9,OK,Southwest
+583,2005,Oregon,57950.0,13.4,5.1,27.4,54.0,OR,Far West
+584,2005,Pennsylvania,60760.0,17.9,5.7,25.4,51.0,PA,Mideast
+585,2005,Puerto Rico,,7.9,5.2,16.9,70.0,PR,
+586,2005,Rhode Island,64938.0,15.3,4.4,28.8,51.4,RI,New England
+587,2005,South Carolina,52794.0,17.0,5.5,24.4,53.1,SC,Southeast
+588,2005,South Dakota,56627.0,13.8,6.0,25.4,54.8,SD,Plains
+589,2005,Tennessee,51713.0,20.4,6.3,22.0,51.3,TN,Southeast
+590,2005,Texas,54358.0,13.2,6.8,21.0,59.0,TX,Southwest
+591,2005,United States,60794.0,15.3,5.2,24.4,54.1,US,
+592,2005,Utah,71931.0,8.5,3.0,16.0,72.5,UT,Rocky Mountain
+593,2005,Vermont,66539.0,14.4,4.9,30.8,50.0,VT,New England
+594,2005,Virgin Islands,,5.3,2.8,12.8,79.1,VI,
+595,2005,Virginia,68127.0,15.3,5.3,24.1,55.2,VA,Southeast
+596,2005,Washington,66463.0,12.5,5.0,27.3,55.1,WA,Far West
+597,2005,West Virginia,47827.0,21.3,5.4,24.3,49.0,WV,Southeast
+598,2005,Wisconsin,58594.0,15.9,4.9,26.1,53.2,WI,Great Lakes
+599,2005,Wyoming,58684.0,16.3,5.1,26.7,51.9,WY,Rocky Mountain
+600,2006,Alabama,48241.0,17.6,5.5,23.4,53.5,AL,Southeast
+601,2006,Alaska,71713.0,16.2,7.7,27.6,48.5,AK,Far West
+602,2006,All States and DC,,14.9,5.1,24.7,54.3,,
+603,2006,Arizona,59306.0,12.1,6.1,24.9,56.9,AZ,Southwest
+604,2006,Arkansas,47103.0,18.8,4.8,25.1,51.2,AR,Southeast
+605,2006,California,70316.0,9.4,5.5,24.2,60.8,CA,Far West
+606,2006,Colorado,70796.0,12.3,5.6,24.5,57.6,CO,Rocky Mountain
+607,2006,Connecticut,79322.0,11.9,5.1,28.2,54.8,CT,New England
+608,2006,Delaware,66654.0,16.7,5.1,27.3,50.9,DE,Mideast
+609,2006,District of Columbia,61619.0,10.6,7.3,22.1,60.0,DC,
+610,2006,Florida,58059.0,16.0,5.1,26.1,52.9,FL,Southeast
+611,2006,Georgia,62721.0,14.1,5.8,21.2,58.8,GA,Southeast
+612,2006,Hawaii,76863.0,13.0,4.6,25.1,57.3,HI,Far West
+613,2006,Idaho,58741.0,12.9,3.9,23.0,60.2,ID,Rocky Mountain
+614,2006,Illinois,61866.0,14.1,6.4,23.7,55.8,IL,Great Lakes
+615,2006,Indiana,57717.0,18.6,5.5,23.3,52.7,IN,Great Lakes
+616,2006,Iowa,61173.0,17.1,4.3,23.7,54.8,IA,Plains
+617,2006,Kansas,57901.0,15.2,4.8,24.1,55.9,KS,Plains
+618,2006,Kentucky,50189.0,24.3,4.3,24.3,47.2,KY,Southeast
+619,2006,Louisiana,46380.0,17.7,5.7,20.1,56.4,LA,Southeast
+620,2006,Maine,58016.0,15.9,5.0,30.4,48.7,ME,New England
+621,2006,Maryland,80928.0,13.0,4.7,22.6,59.7,MD,Mideast
+622,2006,Massachusetts,70330.0,13.0,4.7,27.7,54.5,MA,New England
+623,2006,Michigan,61835.0,16.5,5.8,25.4,52.2,MI,Great Lakes
+624,2006,Minnesota,71450.0,13.8,4.5,27.6,54.1,MN,Plains
+625,2006,Mississippi,44149.0,17.9,7.2,21.1,53.8,MS,Southeast
+626,2006,Missouri,56664.0,18.6,4.6,26.8,50.0,MO,Plains
+627,2006,Montana,52249.0,13.3,5.6,26.8,54.3,MT,Rocky Mountain
+628,2006,Nebraska,61197.0,13.8,4.8,23.8,57.5,NE,Plains
+629,2006,Nevada,66456.0,15.6,6.5,25.6,52.3,NV,Far West
+630,2006,New Hampshire,78770.0,14.3,4.4,29.7,51.6,NH,New England
+631,2006,New Jersey,86510.0,12.3,5.7,24.1,57.9,NJ,Mideast
+632,2006,New Mexico,50880.0,13.8,6.4,24.7,55.1,NM,Southwest
+633,2006,New York,61295.0,13.4,4.9,24.5,57.3,NY,Mideast
+634,2006,North Carolina,50586.0,17.0,5.1,24.1,53.9,NC,Southeast
+635,2006,North Dakota,52175.0,15.6,3.9,24.1,56.4,ND,Plains
+636,2006,Ohio,58344.0,16.8,5.6,24.3,53.3,OH,Great Lakes
+637,2006,Oklahoma,49367.0,18.9,6.2,23.7,51.2,OK,Southwest
+638,2006,Oregon,59857.0,13.6,4.8,25.7,55.8,OR,Far West
+639,2006,Pennsylvania,61619.0,16.6,4.9,25.5,53.0,PA,Mideast
+640,2006,Puerto Rico,,7.7,4.8,16.8,70.7,PR,
+641,2006,Rhode Island,68304.0,14.9,4.3,28.8,52.0,RI,New England
+642,2006,South Carolina,50357.0,16.5,5.8,24.5,53.3,SC,Southeast
+643,2006,South Dakota,57742.0,14.7,5.6,24.8,54.8,SD,Plains
+644,2006,Tennessee,51725.0,18.4,4.1,23.5,53.9,TN,Southeast
+645,2006,Texas,55048.0,12.6,5.3,21.7,60.4,TX,Southwest
+646,2006,United States,61268.0,14.7,5.1,24.5,54.5,US,
+647,2006,Utah,69438.0,7.1,2.7,16.6,73.6,UT,Rocky Mountain
+648,2006,Vermont,66073.0,14.0,4.0,30.9,51.1,VT,New England
+649,2006,Virgin Islands,,5.8,3.1,13.1,78.0,VI,
+650,2006,Virginia,72604.0,14.7,4.6,25.2,55.5,VA,Southeast
+651,2006,Washington,69558.0,12.3,4.7,26.4,56.6,WA,Far West
+652,2006,West Virginia,48834.0,21.3,4.5,24.7,49.6,WV,Southeast
+653,2006,Wisconsin,65706.0,15.2,5.6,26.0,53.2,WI,Great Lakes
+654,2006,Wyoming,59794.0,16.4,5.2,24.9,53.5,WY,Rocky Mountain
+655,2007,Alabama,52176.0,16.5,6.0,23.2,54.3,AL,Southeast
+656,2007,Alaska,77862.0,15.6,6.7,27.1,50.7,AK,Far West
+657,2007,All States and DC,,14.5,5.2,24.6,54.8,,
+658,2007,Arizona,58360.0,13.6,6.1,24.0,56.2,AZ,Southwest
+659,2007,Arkansas,50425.0,17.3,5.1,23.7,53.9,AR,Southeast
+660,2007,California,68890.0,8.8,5.5,22.9,62.8,CA,Far West
+661,2007,Colorado,75573.0,13.4,5.3,24.6,56.7,CO,Rocky Mountain
+662,2007,Connecticut,79281.0,11.3,4.1,30.5,54.1,CT,New England
+663,2007,Delaware,67475.0,15.1,3.8,26.1,54.9,DE,Mideast
+664,2007,District of Columbia,62770.0,11.1,6.1,22.4,60.4,DC,
+665,2007,Florida,56604.0,14.3,5.0,26.2,54.5,FL,Southeast
+666,2007,Georgia,60123.0,14.7,4.7,22.7,57.9,GA,Southeast
+667,2007,Guam,,23.3,7.6,14.1,54.9,GU,
+668,2007,Hawaii,79134.0,12.9,4.1,26.0,57.0,HI,Far West
+669,2007,Idaho,60794.0,14.5,4.6,22.6,58.3,ID,Rocky Mountain
+670,2007,Illinois,64900.0,13.7,6.4,23.5,56.4,IL,Great Lakes
+671,2007,Indiana,58654.0,18.2,5.9,22.8,53.0,IN,Great Lakes
+672,2007,Iowa,60453.0,14.5,5.3,23.5,56.7,IA,Plains
+673,2007,Kansas,59945.0,13.7,4.2,23.3,58.8,KS,Plains
+674,2007,Kentucky,48765.0,23.5,4.7,23.9,47.9,KY,Southeast
+675,2007,Louisiana,51065.0,16.9,5.7,20.2,57.1,LA,Southeast
+676,2007,Maine,59199.0,16.2,4.0,30.8,49.1,ME,New England
+677,2007,Maryland,81122.0,11.5,5.6,23.7,59.3,MD,Mideast
+678,2007,Massachusetts,72263.0,12.0,4.4,28.5,55.1,MA,New England
+679,2007,Michigan,61024.0,15.8,5.4,24.8,54.1,MI,Great Lakes
+680,2007,Minnesota,71762.0,12.4,4.1,27.6,55.9,MN,Plains
+681,2007,Mississippi,46079.0,18.5,5.4,21.2,54.8,MS,Southeast
+682,2007,Missouri,56864.0,19.8,4.7,23.4,52.1,MO,Plains
+683,2007,Montana,53960.0,14.8,4.6,26.6,53.9,MT,Rocky Mountain
+684,2007,Nebraska,60781.0,14.5,5.5,23.8,56.2,NE,Plains
+685,2007,Nevada,66818.0,16.1,5.3,25.4,53.1,NV,Far West
+686,2007,New Hampshire,83527.0,15.1,4.2,30.3,50.4,NH,New England
+687,2007,New Jersey,74791.0,12.0,5.1,24.7,58.2,NJ,Mideast
+688,2007,New Mexico,54826.0,13.1,7.6,24.8,54.4,NM,Southwest
+689,2007,New York,60497.0,12.8,6.1,25.5,55.6,NY,Mideast
+690,2007,North Carolina,53784.0,17.6,5.3,24.8,52.3,NC,Southeast
+691,2007,North Dakota,58348.0,15.1,5.9,25.3,53.8,ND,Plains
+692,2007,Ohio,60689.0,17.7,5.4,24.8,52.1,OH,Great Lakes
+693,2007,Oklahoma,53417.0,20.0,5.8,23.2,51.0,OK,Southwest
+694,2007,Oregon,62094.0,13.1,3.8,28.2,54.9,OR,Far West
+695,2007,Pennsylvania,59870.0,15.1,5.8,23.9,55.1,PA,Mideast
+696,2007,Puerto Rico,,7.5,4.7,19.2,68.6,PR,
+697,2007,Rhode Island,67006.0,11.8,5.2,28.4,54.6,RI,New England
+698,2007,South Carolina,54649.0,16.2,5.7,25.0,53.1,SC,Southeast
+699,2007,South Dakota,57375.0,14.2,5.6,24.3,55.9,SD,Plains
+700,2007,Tennessee,50919.0,20.0,4.3,24.0,51.8,TN,Southeast
+701,2007,Texas,56924.0,13.0,6.4,20.7,60.0,TX,Southwest
+702,2007,United States,62090.0,14.5,5.2,24.4,54.9,US,
+703,2007,Utah,66164.0,8.3,3.4,15.8,72.5,UT,Rocky Mountain
+704,2007,Vermont,58576.0,13.8,3.8,30.7,51.7,VT,New England
+705,2007,Virgin Islands,,5.6,3.0,11.9,79.5,VI,
+706,2007,Virginia,73126.0,14.1,4.4,23.5,58.0,VA,Southeast
+707,2007,Washington,71790.0,12.2,4.6,26.2,57.0,WA,Far West
+708,2007,West Virginia,52026.0,21.7,5.2,24.5,48.6,WV,Southeast
+709,2007,Wisconsin,63381.0,14.6,5.0,25.9,54.5,WI,Great Lakes
+710,2007,Wyoming,60250.0,17.5,4.6,24.8,53.1,WY,Rocky Mountain
+711,2008,Alabama,52941.0,17.3,4.9,21.9,56.0,AL,Southeast
+712,2008,Alaska,76168.0,15.1,6.4,28.4,50.0,AK,Far West
+713,2008,All States and DC,,13.4,4.9,25.2,55.4,,
+714,2008,Arizona,55843.0,10.7,5.2,27.4,56.7,AZ,Southwest
+715,2008,Arkansas,47120.0,17.0,5.4,26.3,51.4,AR,Southeast
+716,2008,California,67865.0,8.9,5.1,23.3,62.7,CA,Far West
+717,2008,Colorado,72542.0,12.3,5.4,24.9,57.5,CO,Rocky Mountain
+718,2008,Connecticut,76993.0,11.6,4.3,30.1,54.0,CT,New England
+719,2008,Delaware,60352.0,13.4,4.4,28.5,53.7,DE,Mideast
+720,2008,District of Columbia,66170.0,9.3,7.0,22.5,61.2,DC,
+721,2008,Florida,53394.0,12.8,4.7,26.1,56.4,FL,Southeast
+722,2008,Georgia,55025.0,14.5,5.0,21.4,59.1,GA,Southeast
+723,2008,Guam,,21.2,6.2,19.4,53.2,GU,
+724,2008,Hawaii,73230.0,11.8,3.7,25.4,59.2,HI,Far West
+725,2008,Idaho,56445.0,12.5,4.4,21.9,61.2,ID,Rocky Mountain
+726,2008,Illinois,63390.0,15.1,6.2,23.4,55.3,IL,Great Lakes
+727,2008,Indiana,55374.0,19.7,6.3,23.0,51.0,IN,Great Lakes
+728,2008,Iowa,59685.0,14.1,4.6,24.7,56.6,IA,Plains
+729,2008,Kansas,56989.0,13.2,4.7,23.2,59.0,KS,Plains
+730,2008,Kentucky,48980.0,20.5,4.7,25.3,49.5,KY,Southeast
+731,2008,Louisiana,47093.0,16.0,4.5,19.9,59.7,LA,Southeast
+732,2008,Maine,56217.0,14.0,4.1,31.7,50.1,ME,New England
+733,2008,Maryland,75837.0,10.6,4.3,24.2,60.9,MD,Mideast
+734,2008,Massachusetts,71800.0,11.7,4.4,28.1,55.8,MA,New England
+735,2008,Michigan,59264.0,15.0,5.5,25.5,54.1,MI,Great Lakes
+736,2008,Minnesota,65379.0,12.1,5.5,27.1,55.4,MN,Plains
+737,2008,Mississippi,43383.0,17.2,5.5,22.2,55.1,MS,Southeast
+738,2008,Missouri,54800.0,20.2,4.8,25.0,50.1,MO,Plains
+739,2008,Montana,51065.0,13.8,4.7,26.8,54.7,MT,Rocky Mountain
+740,2008,Nebraska,60383.0,13.4,4.9,25.0,56.6,NE,Plains
+741,2008,Nevada,65163.0,16.4,5.8,25.1,52.7,NV,Far West
+742,2008,New Hampshire,78771.0,12.8,4.2,31.1,51.9,NH,New England
+743,2008,New Jersey,77735.0,10.7,4.1,24.3,60.9,NJ,Mideast
+744,2008,New Mexico,50115.0,12.8,6.6,24.9,55.7,NM,Southwest
+745,2008,New York,60065.0,11.8,5.0,25.4,57.8,NY,Mideast
+746,2008,North Carolina,51101.0,15.5,5.4,24.8,54.3,NC,Southeast
+747,2008,North Dakota,59077.0,13.3,4.8,25.4,56.5,ND,Plains
+748,2008,Ohio,55867.0,15.5,4.6,25.4,54.4,OH,Great Lakes
+749,2008,Oklahoma,54887.0,18.5,6.2,24.7,50.6,OK,Southwest
+750,2008,Oregon,61572.0,11.8,4.5,24.7,59.0,OR,Far West
+751,2008,Pennsylvania,61185.0,15.6,5.7,25.3,53.3,PA,Mideast
+752,2008,Puerto Rico,,7.5,4.1,18.3,70.1,PR,
+753,2008,Rhode Island,63374.0,13.4,4.0,28.1,54.5,RI,New England
+754,2008,South Carolina,50178.0,14.4,5.6,25.2,54.7,SC,Southeast
+755,2008,South Dakota,61421.0,12.0,5.6,26.1,56.4,SD,Plains
+756,2008,Tennessee,47258.0,18.0,5.1,21.8,55.0,TN,Southeast
+757,2008,Texas,55338.0,11.7,6.8,21.5,60.0,TX,Southwest
+758,2008,United States,59877.0,13.4,4.9,25.1,55.5,US,
+759,2008,Utah,74439.0,6.8,2.5,16.1,74.5,UT,Rocky Mountain
+760,2008,Vermont,60357.0,12.2,4.6,32.2,51.1,VT,New England
+761,2008,Virgin Islands,,4.1,2.3,11.5,82.1,VI,
+762,2008,Virginia,73782.0,12.4,4.1,24.0,59.5,VA,Southeast
+763,2008,Washington,67409.0,11.7,4.0,26.7,57.6,WA,Far West
+764,2008,West Virginia,45225.0,21.5,5.1,25.4,48.1,WV,Southeast
+765,2008,Wisconsin,60945.0,14.1,5.7,26.7,53.5,WI,Great Lakes
+766,2008,Wyoming,63488.0,14.9,4.5,25.4,55.2,WY,Rocky Mountain
+767,2009,Alabama,47755.0,16.5,6.0,22.8,54.6,AL,Southeast
+768,2009,Alaska,73585.0,14.7,5.9,28.1,51.3,AK,Far West
+769,2009,All States and DC,,12.8,5.0,25.5,55.3,,
+770,2009,Arizona,54634.0,11.0,5.1,26.0,57.8,AZ,Southwest
+771,2009,Arkansas,43644.0,15.5,5.9,28.1,50.4,AR,Southeast
+772,2009,California,67051.0,8.1,4.7,23.2,63.9,CA,Far West
+773,2009,Colorado,66807.0,12.1,5.0,25.5,57.4,CO,Rocky Mountain
+774,2009,Connecticut,77463.0,10.7,4.7,28.2,56.3,CT,New England
+775,2009,Delaware,62249.0,13.3,5.0,28.4,53.4,DE,Mideast
+776,2009,District of Columbia,63476.0,9.1,6.2,24.2,60.6,DC,
+777,2009,Florida,54505.0,12.8,4.3,27.6,55.3,FL,Southeast
+778,2009,Georgia,51769.0,12.6,5.1,22.0,60.3,GA,Southeast
+779,2009,Guam,,18.9,5.2,11.1,64.8,GU,
+780,2009,Hawaii,66472.0,10.4,5.0,26.9,57.7,HI,Far West
+781,2009,Idaho,55875.0,12.3,4.0,22.1,61.6,ID,Rocky Mountain
+782,2009,Illinois,63152.0,12.0,6.6,23.1,58.3,IL,Great Lakes
+783,2009,Indiana,52921.0,17.1,6.0,23.7,53.2,IN,Great Lakes
+784,2009,Iowa,60585.0,13.4,3.8,24.2,58.7,IA,Plains
+785,2009,Kansas,53414.0,13.2,4.6,23.3,58.8,KS,Plains
+786,2009,Kentucky,50961.0,20.6,5.0,25.3,49.1,KY,Southeast
+787,2009,Louisiana,54269.0,16.4,5.7,23.2,54.7,LA,Southeast
+788,2009,Maine,56740.0,12.5,4.7,31.1,51.6,ME,New England
+789,2009,Maryland,76669.0,10.4,4.8,23.4,61.5,MD,Mideast
+790,2009,Massachusetts,70920.0,10.9,4.0,28.5,56.6,MA,New England
+791,2009,Michigan,54939.0,13.7,5.9,25.5,54.9,MI,Great Lakes
+792,2009,Minnesota,66998.0,11.3,5.5,26.4,56.8,MN,Plains
+793,2009,Mississippi,41900.0,17.1,6.3,22.1,54.6,MS,Southeast
+794,2009,Missouri,58254.0,18.3,4.8,24.8,52.1,MO,Plains
+795,2009,Montana,48301.0,12.2,4.6,26.4,56.8,MT,Rocky Mountain
+796,2009,Nebraska,59240.0,12.9,3.8,24.6,58.7,NE,Plains
+797,2009,Nevada,61437.0,15.8,6.3,26.5,51.4,NV,Far West
+798,2009,New Hampshire,76603.0,11.3,4.5,29.4,54.9,NH,New England
+799,2009,New Jersey,77375.0,10.0,5.8,25.4,58.8,NJ,Mideast
+800,2009,New Mexico,52010.0,11.2,6.7,25.8,56.2,NM,Southwest
+801,2009,New York,59982.0,12.1,5.9,26.3,55.7,NY,Mideast
+802,2009,North Carolina,50056.0,14.4,5.9,26.2,53.5,NC,Southeast
+803,2009,North Dakota,59814.0,13.4,5.2,24.0,57.4,ND,Plains
+804,2009,Ohio,54802.0,15.6,4.7,25.8,53.8,OH,Great Lakes
+805,2009,Oklahoma,54800.0,18.8,6.7,24.5,50.0,OK,Southwest
+806,2009,Oregon,58647.0,13.1,4.7,27.6,54.5,OR,Far West
+807,2009,Pennsylvania,57540.0,15.1,5.1,26.0,53.7,PA,Mideast
+808,2009,Puerto Rico,,6.9,3.7,18.0,71.5,PR,
+809,2009,Rhode Island,61676.0,10.2,4.9,29.6,55.4,RI,New England
+810,2009,South Carolina,49094.0,14.6,5.7,24.5,55.2,SC,Southeast
+811,2009,South Dakota,54738.0,12.5,5.0,27.2,55.3,SD,Plains
+812,2009,Tennessee,48397.0,17.6,4.4,24.7,53.3,TN,Southeast
+813,2009,Texas,56708.0,11.7,6.2,21.6,60.5,TX,Southwest
+814,2009,United States,59458.0,12.7,5.0,25.5,55.5,US,
+815,2009,Utah,69866.0,6.9,2.9,15.1,75.1,UT,Rocky Mountain
+816,2009,Vermont,62493.0,12.5,4.6,31.6,51.3,VT,New England
+817,2009,Virgin Islands,,3.9,2.6,11.1,82.5,VI,
+818,2009,Virginia,72267.0,13.8,5.2,24.4,56.5,VA,Southeast
+819,2009,Washington,72137.0,10.7,4.2,26.7,58.4,WA,Far West
+820,2009,West Virginia,48364.0,20.7,4.9,24.5,49.9,WV,Southeast
+821,2009,Wisconsin,61202.0,12.6,6.1,26.9,54.3,WI,Great Lakes
+822,2009,Wyoming,62674.0,15.3,4.6,26.1,54.0,WY,Rocky Mountain
+823,2010,Alabama,48100.0,15.6,6.3,23.9,54.2,AL,Southeast
+824,2010,Alaska,67977.0,13.5,6.8,26.1,53.6,AK,Far West
+825,2010,All States and DC,,12.4,4.8,25.1,56.6,,
+826,2010,Arizona,55107.0,10.7,4.4,27.9,57.1,AZ,Southwest
+827,2010,Arkansas,45343.0,17.3,5.6,24.1,53.0,AR,Southeast
+828,2010,California,63788.0,7.5,4.6,23.1,64.8,CA,Far West
+829,2010,Colorado,70779.0,11.4,4.6,24.7,59.3,CO,Rocky Mountain
+830,2010,Connecticut,77554.0,9.2,4.0,29.2,57.6,CT,New England
+831,2010,Delaware,64882.0,12.8,4.5,26.8,56.0,DE,Mideast
+832,2010,District of Columbia,66896.0,10.0,5.7,23.4,61.0,DC,
+833,2010,Florida,51782.0,12.0,5.2,29.8,53.0,FL,Southeast
+834,2010,Georgia,51842.0,12.8,4.8,23.1,59.3,GA,Southeast
+835,2010,Guam,,19.7,6.1,16.6,57.6,GU,
+836,2010,Hawaii,69964.0,10.7,3.8,25.3,60.2,HI,Far West
+837,2010,Idaho,55288.0,11.3,4.4,22.9,61.5,ID,Rocky Mountain
+838,2010,Illinois,59610.0,11.5,5.4,23.6,59.5,IL,Great Lakes
+839,2010,Indiana,54218.0,16.3,5.0,25.1,53.7,IN,Great Lakes
+840,2010,Iowa,57598.0,12.1,4.1,23.4,60.4,IA,Plains
+841,2010,Kansas,54118.0,11.9,5.1,24.2,58.8,KS,Plains
+842,2010,Kentucky,48301.0,19.3,5.5,26.0,49.2,KY,Southeast
+843,2010,Louisiana,46181.0,15.9,6.2,22.0,56.0,LA,Southeast
+844,2010,Maine,56323.0,13.9,4.3,30.2,51.6,ME,New England
+845,2010,Maryland,75442.0,10.5,4.7,23.9,60.9,MD,Mideast
+846,2010,Massachusetts,71603.0,10.2,3.9,29.3,56.6,MA,New England
+847,2010,Michigan,54379.0,13.5,5.4,25.3,55.7,MI,Great Lakes
+848,2010,Minnesota,61482.0,11.3,3.6,25.9,59.2,MN,Plains
+849,2010,Mississippi,44842.0,17.1,5.8,22.0,55.0,MS,Southeast
+850,2010,Missouri,53839.0,16.6,4.4,26.1,52.8,MO,Plains
+851,2010,Montana,48508.0,13.5,5.3,27.2,54.0,MT,Rocky Mountain
+852,2010,Nebraska,61697.0,12.5,4.7,25.2,57.6,NE,Plains
+853,2010,Nevada,60165.0,16.5,4.9,25.8,52.8,NV,Far West
+854,2010,New Hampshire,78300.0,12.4,4.5,30.7,52.4,NH,New England
+855,2010,New Jersey,73993.0,10.2,4.2,26.1,59.4,NJ,Mideast
+856,2010,New Mexico,53037.0,11.4,7.1,24.7,56.9,NM,Southwest
+857,2010,New York,58497.0,10.5,5.0,26.8,57.8,NY,Mideast
+858,2010,North Carolina,51504.0,14.3,5.4,24.5,55.8,NC,Southeast
+859,2010,North Dakota,59937.0,12.2,5.1,24.1,58.6,ND,Plains
+860,2010,Ohio,53920.0,17.1,5.4,24.6,52.9,OH,Great Lakes
+861,2010,Oklahoma,50650.0,17.5,6.2,24.3,52.0,OK,Southwest
+862,2010,Oregon,59462.0,11.0,4.1,28.2,56.7,OR,Far West
+863,2010,Pennsylvania,56773.0,13.4,5.0,26.2,55.4,PA,Mideast
+864,2010,Puerto Rico,,7.5,4.4,17.3,70.8,PR,
+865,2010,Rhode Island,60662.0,10.9,4.8,28.4,55.9,RI,New England
+866,2010,South Carolina,48999.0,14.0,7.0,24.1,54.9,SC,Southeast
+867,2010,South Dakota,53293.0,11.3,4.1,27.0,57.6,SD,Plains
+868,2010,Tennessee,45348.0,15.7,4.4,22.9,57.0,TN,Southeast
+869,2010,Texas,55542.0,10.5,5.3,21.3,62.9,TX,Southwest
+870,2010,United States,57904.0,12.3,4.8,24.7,56.8,US,
+871,2010,Utah,66629.0,6.4,2.7,14.3,76.6,UT,Rocky Mountain
+872,2010,Vermont,65721.0,11.1,4.2,30.7,54.0,VT,New England
+873,2010,Virgin Islands,,3.6,2.2,10.5,83.7,VI,
+874,2010,Virginia,70937.0,14.5,4.0,24.4,57.0,VA,Southeast
+875,2010,Washington,65997.0,11.0,4.2,25.5,59.3,WA,Far West
+876,2010,West Virginia,50267.0,23.2,3.6,24.4,48.8,WV,Southeast
+877,2010,Wisconsin,59167.0,13.6,5.5,26.3,54.6,WI,Great Lakes
+878,2010,Wyoming,61341.0,14.9,4.6,24.6,55.9,WY,Rocky Mountain
+879,2011,Alabama,48518.0,18.6,5.8,25.1,50.6,AL,Southeast
+880,2011,Alaska,65424.0,15.9,7.0,27.9,49.1,AK,Far West
+881,2011,All States and DC,,15.2,5.7,25.1,52.9,,
+882,2011,Arizona,55388.0,13.1,6.2,24.9,55.9,AZ,Southwest
+883,2011,Arkansas,47051.0,20.1,6.8,25.1,48.0,AR,Southeast
+884,2011,California,60795.0,8.6,5.0,23.9,62.5,CA,Far West
+885,2011,Colorado,66789.0,12.3,6.0,27.2,54.6,CO,Rocky Mountain
+886,2011,Connecticut,74520.0,11.8,5.3,27.8,55.1,CT,New England
+887,2011,Delaware,62268.0,16.3,5.5,28.3,50.0,DE,Mideast
+888,2011,District of Columbia,62941.0,12.8,8.0,22.0,57.2,DC,
+889,2011,Florida,51383.0,13.5,5.8,28.0,52.8,FL,Southeast
+890,2011,Georgia,52372.0,14.3,6.9,22.1,56.7,GA,Southeast
+891,2011,Guam,,21.1,9.4,14.6,54.9,GU,
+892,2011,Hawaii,67265.0,12.2,4.7,25.9,57.3,HI,Far West
+893,2011,Idaho,54064.0,12.4,4.8,24.4,58.5,ID,Rocky Mountain
+894,2011,Illinois,57685.0,14.3,6.6,24.4,54.7,IL,Great Lakes
+895,2011,Indiana,50631.0,19.4,6.2,24.7,49.7,IN,Great Lakes
+896,2011,Iowa,57209.0,15.5,4.8,25.0,54.6,IA,Plains
+897,2011,Kansas,52570.0,16.9,5.1,22.4,55.6,KS,Plains
+898,2011,Kentucky,45403.0,23.6,5.4,24.3,46.8,KY,Southeast
+899,2011,Louisiana,46317.0,19.3,6.4,22.0,52.3,LA,Southeast
+900,2011,Maine,56609.0,17.6,5.2,31.6,45.6,ME,New England
+901,2011,Maryland,78462.0,13.7,5.4,22.6,58.3,MD,Mideast
+902,2011,Massachusetts,72125.0,13.3,4.9,28.3,53.5,MA,New England
+903,2011,Michigan,55682.0,17.3,6.0,25.7,51.0,MI,Great Lakes
+904,2011,Minnesota,65868.0,13.2,5.9,26.2,54.7,MN,Plains
+905,2011,Mississippi,46809.0,18.8,7.1,21.3,52.8,MS,Southeast
+906,2011,Missouri,52145.0,19.4,5.6,25.0,50.0,MO,Plains
+907,2011,Montana,45883.0,16.4,5.7,26.9,51.0,MT,Rocky Mountain
+908,2011,Nebraska,63357.0,14.5,5.4,24.3,55.7,NE,Plains
+909,2011,Nevada,53591.0,18.0,4.9,24.6,52.5,NV,Far West
+910,2011,New Hampshire,75049.0,15.2,4.1,29.3,51.4,NH,New England
+911,2011,New Jersey,71014.0,11.4,5.5,25.8,57.4,NJ,Mideast
+912,2011,New Mexico,47825.0,13.5,7.9,24.9,53.6,NM,Southwest
+913,2011,New York,57684.0,12.1,6.0,25.4,56.5,NY,Mideast
+914,2011,North Carolina,51498.0,15.6,6.2,24.8,53.4,NC,Southeast
+915,2011,North Dakota,64205.0,15.9,5.9,25.3,52.9,ND,Plains
+916,2011,Ohio,50862.0,19.1,6.0,25.2,49.7,OH,Great Lakes
+917,2011,Oklahoma,55199.0,19.9,6.2,24.7,49.2,OK,Southwest
+918,2011,Oregon,58698.0,14.4,5.4,27.5,52.8,OR,Far West
+919,2011,Pennsylvania,56857.0,16.9,5.6,25.4,52.2,PA,Mideast
+920,2011,Puerto Rico,,10.8,4.0,18.8,66.4,PR,
+921,2011,Rhode Island,55858.0,14.4,5.7,27.7,52.2,RI,New England
+922,2011,South Carolina,45663.0,16.6,6.6,24.0,52.8,SC,Southeast
+923,2011,South Dakota,53796.0,15.5,7.6,25.5,51.5,SD,Plains
+924,2011,Tennessee,48164.0,18.3,4.7,23.8,53.2,TN,Southeast
+925,2011,Texas,55874.0,12.0,7.2,21.8,59.0,TX,Southwest
+926,2011,United States,57021.0,15.2,5.7,25.0,52.9,US,
+927,2011,Utah,63217.0,8.5,3.3,16.0,72.2,UT,Rocky Mountain
+928,2011,Vermont,59080.0,14.7,4.4,30.8,50.1,VT,New England
+929,2011,Virginia,71331.0,15.0,5.9,23.6,55.5,VA,Southeast
+930,2011,Washington,64763.0,12.1,5.4,26.0,56.5,WA,Far West
+931,2011,West Virginia,47642.0,23.8,4.9,23.5,47.9,WV,Southeast
+932,2011,Wisconsin,59304.0,14.9,6.0,26.2,52.9,WI,Great Lakes
+933,2011,Wyoming,62096.0,17.5,5.5,26.2,50.8,WY,Rocky Mountain
+934,2012,Alabama,48487.0,18.0,5.8,23.1,53.2,AL,Southeast
+935,2012,Alaska,71003.0,14.2,6.3,25.7,53.8,AK,Far West
+936,2012,All States and DC,,13.5,5.7,25.2,54.4,,
+937,2012,Arizona,52480.0,11.0,6.1,26.9,56.0,AZ,Southwest
+938,2012,Arkansas,43527.0,18.3,6.8,24.1,50.8,AR,Southeast
+939,2012,California,63609.0,7.9,4.7,23.8,63.6,CA,Far West
+940,2012,Colorado,63871.0,11.9,5.8,26.3,56.0,CO,Rocky Mountain
+941,2012,Connecticut,71671.0,10.8,5.2,28.7,55.3,CT,New England
+942,2012,Delaware,54631.0,14.6,5.1,26.9,53.4,DE,Mideast
+943,2012,District of Columbia,72786.0,11.4,8.2,20.9,59.5,DC,
+944,2012,Florida,51395.0,12.2,5.5,27.8,54.5,FL,Southeast
+945,2012,Georgia,53682.0,13.5,6.8,21.1,58.5,GA,Southeast
+946,2012,Guam,,19.8,6.0,13.5,60.7,GU,
+947,2012,Hawaii,62765.0,10.2,4.3,25.6,59.9,HI,Far West
+948,2012,Idaho,53460.0,12.4,4.1,24.3,59.3,ID,Rocky Mountain
+949,2012,Illinois,57717.0,13.2,5.4,24.4,57.0,IL,Great Lakes
+950,2012,Indiana,51492.0,18.0,6.0,23.7,52.4,IN,Great Lakes
+951,2012,Iowa,59618.0,13.0,5.1,25.0,56.9,IA,Plains
+952,2012,Kansas,55781.0,14.0,5.4,23.8,56.9,KS,Plains
+953,2012,Kentucky,45834.0,23.2,5.1,25.5,46.3,KY,Southeast
+954,2012,Louisiana,43601.0,18.5,6.3,21.9,53.4,LA,Southeast
+955,2012,Maine,54838.0,15.9,4.4,31.1,48.6,ME,New England
+956,2012,Maryland,80137.0,11.4,4.8,23.4,60.4,MD,Mideast
+957,2012,Massachusetts,71012.0,12.0,4.4,27.7,55.9,MA,New England
+958,2012,Michigan,55795.0,16.9,6.5,25.8,50.9,MI,Great Lakes
+959,2012,Minnesota,68936.0,13.2,5.6,27.2,54.0,MN,Plains
+960,2012,Mississippi,40875.0,17.8,6.2,20.7,55.3,MS,Southeast
+961,2012,Missouri,55515.0,18.2,5.7,23.9,52.2,MO,Plains
+962,2012,Montana,50298.0,14.2,5.5,27.2,53.1,MT,Rocky Mountain
+963,2012,Nebraska,58228.0,14.5,5.2,24.4,55.9,NE,Plains
+964,2012,Nevada,52803.0,12.5,5.6,24.5,57.4,NV,Far West
+965,2012,New Hampshire,75656.0,13.4,3.8,31.6,51.3,NH,New England
+966,2012,New Jersey,74399.0,11.5,5.8,25.5,57.2,NJ,Mideast
+967,2012,New Mexico,48442.0,12.7,6.6,24.9,55.8,NM,Southwest
+968,2012,New York,53190.0,10.6,5.6,25.2,58.6,NY,Mideast
+969,2012,North Carolina,46355.0,14.8,6.1,25.5,53.6,NC,Southeast
+970,2012,North Dakota,62210.0,15.5,5.7,24.7,54.1,ND,Plains
+971,2012,Ohio,49503.0,18.1,5.2,24.6,52.1,OH,Great Lakes
+972,2012,Oklahoma,54001.0,17.0,6.3,24.4,52.4,OK,Southwest
+973,2012,Oregon,57758.0,11.9,6.0,27.8,54.4,OR,Far West
+974,2012,Pennsylvania,57902.0,15.7,5.7,25.5,53.2,PA,Mideast
+975,2012,Puerto Rico,,9.4,3.2,19.8,67.6,PR,
+976,2012,Rhode Island,62544.0,12.1,5.3,27.6,54.9,RI,New England
+977,2012,South Carolina,49532.0,15.3,7.3,25.6,51.8,SC,Southeast
+978,2012,South Dakota,55125.0,15.2,6.8,26.5,51.6,SD,Plains
+979,2012,Tennessee,47963.0,18.8,6.1,24.2,51.0,TN,Southeast
+980,2012,Texas,57926.0,11.5,6.6,21.4,60.4,TX,Southwest
+981,2012,United States,56912.0,13.5,5.7,25.0,54.5,US,
+982,2012,Utah,65083.0,7.2,3.4,16.5,72.9,UT,Rocky Mountain
+983,2012,Vermont,62005.0,11.8,4.6,30.8,52.8,VT,New England
+984,2012,Virginia,72101.0,13.1,5.9,23.8,57.2,VA,Southeast
+985,2012,Washington,69373.0,11.7,5.5,26.6,56.3,WA,Far West
+986,2012,West Virginia,48586.0,24.0,4.2,25.3,46.5,WV,Southeast
+987,2012,Wisconsin,59213.0,13.7,6.7,27.0,52.7,WI,Great Lakes
+988,2012,Wyoming,64158.0,15.5,6.3,24.7,53.6,WY,Rocky Mountain
+989,2013,Alabama,45489.0,15.8,5.7,23.4,55.1,AL,Southeast
+990,2013,Alaska,67206.0,15.6,6.9,26.7,50.7,AK,Far West
+991,2013,All States and DC,,13.4,5.4,25.3,55.0,,
+992,2013,Arizona,55625.0,11.1,5.3,26.0,57.6,AZ,Southwest
+993,2013,Arkansas,43882.0,19.5,6.5,25.0,49.1,AR,Southeast
+994,2013,California,63239.0,8.0,4.6,22.8,64.7,CA,Far West
+995,2013,Colorado,69662.0,11.9,5.7,26.2,56.1,CO,Rocky Mountain
+996,2013,Connecticut,74510.0,10.1,5.4,28.2,56.3,CT,New England
+997,2013,Delaware,57403.0,13.4,6.1,25.4,55.0,DE,Mideast
+998,2013,District of Columbia,66698.0,10.8,8.1,21.4,59.8,DC,
+999,2013,Florida,52640.0,11.6,5.3,28.2,55.0,FL,Southeast
+1000,2013,Georgia,52148.0,13.6,5.2,20.6,60.6,GA,Southeast
+1001,2013,Guam,,19.4,7.1,16.5,57.0,GU,
+1002,2013,Hawaii,67504.0,9.0,4.4,27.3,59.4,HI,Far West
+1003,2013,Idaho,56906.0,12.2,5.0,24.7,58.2,ID,Rocky Mountain
+1004,2013,Illinois,62874.0,12.4,5.7,24.8,57.2,IL,Great Lakes
+1005,2013,Indiana,55571.0,16.6,5.3,25.2,52.9,IN,Great Lakes
+1006,2013,Iowa,60300.0,15.0,4.5,24.4,56.1,IA,Plains
+1007,2013,Kansas,56596.0,14.5,5.5,24.0,55.9,KS,Plains
+1008,2013,Kentucky,46343.0,20.5,6.0,26.0,47.6,KY,Southeast
+1009,2013,Louisiana,43555.0,16.7,6.8,22.6,53.9,LA,Southeast
+1010,2013,Maine,55097.0,15.1,5.2,31.1,48.7,ME,New England
+1011,2013,Maryland,71741.0,11.7,4.7,22.3,61.3,MD,Mideast
+1012,2013,Massachusetts,69213.0,11.8,4.8,27.2,56.2,MA,New England
+1013,2013,Michigan,53645.0,16.2,5.3,27.0,51.6,MI,Great Lakes
+1014,2013,Minnesota,66953.0,12.4,5.6,27.8,54.2,MN,Plains
+1015,2013,Mississippi,44905.0,17.7,7.2,21.5,53.7,MS,Southeast
+1016,2013,Missouri,55305.0,16.6,5.5,25.2,52.7,MO,Plains
+1017,2013,Montana,48513.0,14.0,5.0,26.8,54.2,MT,Rocky Mountain
+1018,2013,Nebraska,59112.0,13.7,4.7,24.7,56.9,NE,Plains
+1019,2013,Nevada,49873.0,13.2,6.2,22.5,58.1,NV,Far West
+1020,2013,New Hampshire,78402.0,12.3,3.9,31.0,52.7,NH,New England
+1021,2013,New Jersey,67915.0,10.6,5.0,25.8,58.6,NJ,Mideast
+1022,2013,New Mexico,46309.0,12.7,6.5,25.4,55.5,NM,Southwest
+1023,2013,New York,59188.0,11.2,5.4,25.0,58.4,NY,Mideast
+1024,2013,North Carolina,45299.0,14.2,6.1,25.1,54.7,NC,Southeast
+1025,2013,North Dakota,58138.0,15.6,5.6,25.2,53.7,ND,Plains
+1026,2013,Ohio,51004.0,17.8,5.5,25.3,51.4,OH,Great Lakes
+1027,2013,Oklahoma,48123.0,17.4,6.3,24.5,51.8,OK,Southwest
+1028,2013,Oregon,61897.0,12.8,4.6,27.3,55.4,OR,Far West
+1029,2013,Pennsylvania,59308.0,15.7,5.3,26.0,53.1,PA,Mideast
+1030,2013,Puerto Rico,,7.1,3.7,19.0,70.2,PR,
+1031,2013,Rhode Island,63551.0,12.5,4.9,28.6,54.0,RI,New England
+1032,2013,South Carolina,48092.0,15.4,6.6,25.3,52.7,SC,Southeast
+1033,2013,South Dakota,59859.0,13.5,6.1,27.4,53.1,SD,Plains
+1034,2013,Tennessee,46718.0,18.4,5.9,24.1,51.6,TN,Southeast
+1035,2013,Texas,58291.0,9.9,6.0,22.0,62.1,TX,Southwest
+1036,2013,United States,57095.0,13.4,5.4,25.2,55.0,US,
+1037,2013,Utah,69218.0,7.1,3.2,17.3,72.4,UT,Rocky Mountain
+1038,2013,Vermont,60286.0,12.5,4.1,29.9,53.5,VT,New England
+1039,2013,Virginia,74333.0,13.4,5.6,23.8,57.2,VA,Southeast
+1040,2013,Washington,66073.0,11.3,4.7,26.4,57.6,WA,Far West
+1041,2013,West Virginia,44236.0,22.8,4.5,24.3,48.4,WV,Southeast
+1042,2013,Wisconsin,60743.0,13.0,5.7,26.9,54.4,WI,Great Lakes
+1043,2013,Wyoming,61229.0,15.5,5.2,26.6,52.8,WY,Rocky Mountain
+1044,2014,Alabama,45701.0,14.8,6.4,24.6,54.3,AL,Southeast
+1045,2014,Alaska,73105.0,13.5,6.4,25.7,54.4,AK,Far West
+1046,2014,All States and DC,,12.9,5.2,25.0,55.9,,
+1047,2014,Arizona,53242.0,11.1,5.4,26.5,57.0,AZ,Southwest
+1048,2014,Arkansas,48559.0,17.7,7.1,25.2,50.0,AR,Southeast
+1049,2014,California,65384.0,7.7,5.2,22.8,64.3,CA,Far West
+1050,2014,Colorado,65874.0,10.7,5.0,26.5,57.8,CO,Rocky Mountain
+1051,2014,Connecticut,75842.0,10.2,5.2,27.7,56.9,CT,New England
+1052,2014,Delaware,62179.0,14.7,5.2,24.6,55.5,DE,Mideast
+1053,2014,District of Columbia,73805.0,10.0,6.3,19.1,64.6,DC,
+1054,2014,Florida,49876.0,11.6,6.1,27.8,54.6,FL,Southeast
+1055,2014,Georgia,53567.0,12.4,5.0,22.4,60.2,GA,Southeast
+1056,2014,Guam,,19.9,9.4,15.1,55.7,GU,
+1057,2014,Hawaii,76990.0,9.6,4.5,25.9,59.9,HI,Far West
+1058,2014,Idaho,57765.0,11.1,4.8,23.9,60.2,ID,Rocky Mountain
+1059,2014,Illinois,59362.0,11.3,5.2,24.0,59.5,IL,Great Lakes
+1060,2014,Indiana,51951.0,16.9,6.0,24.1,53.0,IN,Great Lakes
+1061,2014,Iowa,62491.0,13.7,4.8,25.7,55.9,IA,Plains
+1062,2014,Kansas,57771.0,13.1,5.0,23.6,58.3,KS,Plains
+1063,2014,Kentucky,46250.0,20.4,5.7,25.5,48.4,KY,Southeast
+1064,2014,Louisiana,45839.0,16.8,7.2,22.2,53.8,LA,Southeast
+1065,2014,Maine,55897.0,14.7,4.6,32.0,48.7,ME,New England
+1066,2014,Maryland,82332.0,10.0,4.6,22.6,62.8,MD,Mideast
+1067,2014,Massachusetts,68264.0,10.0,4.7,26.8,58.5,MA,New England
+1068,2014,Michigan,56216.0,15.6,5.6,26.7,52.2,MI,Great Lakes
+1069,2014,Minnesota,72688.0,11.4,4.9,26.7,57.1,MN,Plains
+1070,2014,Mississippi,38397.0,15.5,7.5,21.9,55.2,MS,Southeast
+1071,2014,Missouri,61215.0,15.8,4.8,24.4,55.0,MO,Plains
+1072,2014,Montana,55239.0,14.0,6.0,27.2,52.9,MT,Rocky Mountain
+1073,2014,Nebraska,61474.0,12.2,5.1,24.7,58.0,NE,Plains
+1074,2014,Nevada,53913.0,10.8,6.1,24.0,59.0,NV,Far West
+1075,2014,New Hampshire,79340.0,13.0,4.6,30.1,52.4,NH,New England
+1076,2014,New Jersey,70525.0,9.5,5.7,24.3,60.6,NJ,Mideast
+1077,2014,New Mexico,50466.0,12.7,6.5,25.5,55.4,NM,Southwest
+1078,2014,New York,58707.0,9.5,4.9,23.6,62.0,NY,Mideast
+1079,2014,North Carolina,50572.0,13.0,6.1,24.4,56.5,NC,Southeast
+1080,2014,North Dakota,65647.0,14.4,5.5,24.1,56.0,ND,Plains
+1081,2014,Ohio,53663.0,15.6,5.4,25.0,54.0,OH,Great Lakes
+1082,2014,Oklahoma,51020.0,15.1,6.0,26.0,53.0,OK,Southwest
+1083,2014,Oregon,63642.0,12.1,4.8,27.1,55.9,OR,Far West
+1084,2014,Pennsylvania,59640.0,13.9,6.0,24.8,55.3,PA,Mideast
+1085,2014,Puerto Rico,,7.6,3.7,18.2,70.6,PR,
+1086,2014,Rhode Island,63380.0,11.3,4.9,27.7,56.0,RI,New England
+1087,2014,South Carolina,48567.0,14.8,6.7,25.3,53.2,SC,Southeast
+1088,2014,South Dakota,57348.0,12.9,5.7,26.4,55.0,SD,Plains
+1089,2014,Tennessee,47255.0,18.7,5.5,24.0,51.8,TN,Southeast
+1090,2014,Texas,58237.0,8.7,5.9,21.3,64.2,TX,Southwest
+1091,2014,United States,58001.0,12.9,5.2,24.8,55.9,US,
+1092,2014,Utah,68515.0,6.4,3.3,16.1,74.3,UT,Rocky Mountain
+1093,2014,Vermont,65623.0,11.7,4.7,31.1,52.5,VT,New England
+1094,2014,Virginia,71511.0,14.0,5.6,23.2,57.3,VA,Southeast
+1095,2014,Washington,63850.0,10.9,4.4,26.4,58.3,WA,Far West
+1096,2014,West Virginia,42754.0,22.5,4.2,26.8,46.6,WV,Southeast
+1097,2014,Wisconsin,62782.0,12.9,4.5,26.3,56.3,WI,Great Lakes
+1098,2014,Wyoming,60199.0,14.3,5.2,24.6,55.9,WY,Rocky Mountain
+1099,2015,Alabama,48030.0,15.3,6.1,22.9,55.7,AL,Southeast
+1100,2015,Alaska,81054.0,13.9,5.2,26.8,54.1,AK,Far West
+1101,2015,All States and DC,,11.9,5.2,25.1,56.5,,
+1102,2015,Arizona,56381.0,9.2,4.9,25.0,60.9,AZ,Southwest
+1103,2015,Arkansas,46184.0,17.5,7.4,24.1,51.1,AR,Southeast
+1104,2015,California,68670.0,7.2,4.5,23.0,65.3,CA,Far West
+1105,2015,Colorado,71864.0,10.3,5.3,26.6,57.7,CO,Rocky Mountain
+1106,2015,Connecticut,78655.0,9.0,4.5,27.5,59.1,CT,New England
+1107,2015,Delaware,62325.0,11.9,5.4,27.0,55.6,DE,Mideast
+1108,2015,District of Columbia,75614.0,8.7,7.3,21.5,62.5,DC,
+1109,2015,Florida,52687.0,10.6,5.2,28.0,56.2,FL,Southeast
+1110,2015,Georgia,54784.0,12.3,5.4,22.6,59.8,GA,Southeast
+1111,2015,Guam,,19.7,7.7,17.4,55.2,GU,
+1112,2015,Hawaii,69617.0,10.0,4.1,25.3,60.6,HI,Far West
+1113,2015,Idaho,55708.0,9.9,3.9,23.6,62.5,ID,Rocky Mountain
+1114,2015,Illinois,65192.0,10.0,5.2,24.4,60.5,IL,Great Lakes
+1115,2015,Indiana,56095.0,14.7,5.9,25.5,53.9,IN,Great Lakes
+1116,2015,Iowa,65669.0,13.1,5.0,25.6,56.3,IA,Plains
+1117,2015,Kansas,59205.0,12.4,5.3,24.1,58.2,KS,Plains
+1118,2015,Kentucky,45740.0,20.5,5.4,25.1,48.9,KY,Southeast
+1119,2015,Louisiana,49555.0,15.1,6.7,22.5,55.7,LA,Southeast
+1120,2015,Maine,54771.0,15.4,4.1,31.6,48.9,ME,New England
+1121,2015,Maryland,79416.0,10.2,4.9,23.4,61.5,MD,Mideast
+1122,2015,Massachusetts,73229.0,9.5,4.5,26.9,59.1,MA,New England
+1123,2015,Michigan,58491.0,14.9,5.9,26.3,53.0,MI,Great Lakes
+1124,2015,Minnesota,74167.0,11.3,5.0,26.7,57.1,MN,Plains
+1125,2015,Mississippi,43204.0,15.5,7.0,21.3,56.1,MS,Southeast
+1126,2015,Missouri,63879.0,16.5,5.8,25.9,51.9,MO,Plains
+1127,2015,Montana,55461.0,12.9,6.0,27.2,53.9,MT,Rocky Mountain
+1128,2015,Nebraska,65258.0,12.5,4.7,24.4,58.5,NE,Plains
+1129,2015,Nevada,56122.0,11.7,5.9,25.6,56.9,NV,Far West
+1130,2015,New Hampshire,81661.0,11.3,4.6,30.3,53.8,NH,New England
+1131,2015,New Jersey,73764.0,8.6,5.0,25.2,61.3,NJ,Mideast
+1132,2015,New Mexico,48688.0,11.3,6.2,24.7,57.7,NM,Southwest
+1133,2015,New York,62594.0,10.2,5.0,24.2,60.6,NY,Mideast
+1134,2015,North Carolina,54815.0,13.6,5.4,25.8,55.2,NC,Southeast
+1135,2015,North Dakota,61957.0,13.7,5.1,24.5,56.8,ND,Plains
+1136,2015,Ohio,57517.0,15.7,5.9,24.4,54.0,OH,Great Lakes
+1137,2015,Oklahoma,50801.0,16.0,6.2,24.7,53.2,OK,Southwest
+1138,2015,Oregon,65646.0,11.6,5.5,27.0,55.9,OR,Far West
+1139,2015,Pennsylvania,65166.0,13.3,4.9,26.0,55.9,PA,Mideast
+1140,2015,Puerto Rico,,7.7,3.1,16.6,72.6,PR,
+1141,2015,Rhode Island,60107.0,10.7,4.8,27.9,56.6,RI,New England
+1142,2015,South Carolina,50027.0,13.7,6.0,25.0,55.4,SC,Southeast
+1143,2015,South Dakota,59421.0,14.0,6.1,25.8,54.1,SD,Plains
+1144,2015,Tennessee,51074.0,15.9,6.1,24.8,53.3,TN,Southeast
+1145,2015,Texas,60940.0,9.5,5.7,21.3,63.5,TX,Southwest
+1146,2015,United States,60987.0,11.9,5.2,25.0,56.5,US,
+1147,2015,Utah,71499.0,6.3,2.8,16.2,74.8,UT,Rocky Mountain
+1148,2015,Vermont,64200.0,11.9,4.1,29.0,55.1,VT,New England
+1149,2015,Virginia,66350.0,11.8,4.7,23.6,59.8,VA,Southeast
+1150,2015,Washington,72562.0,10.0,5.0,26.3,58.7,WA,Far West
+1151,2015,West Virginia,46212.0,21.0,4.7,24.9,49.4,WV,Southeast
+1152,2015,Wisconsin,59809.0,11.4,6.0,26.2,56.5,WI,Great Lakes
+1153,2015,Wyoming,65745.0,14.0,5.1,24.4,56.5,WY,Rocky Mountain
+1154,2016,Alabama,50308.0,14.8,6.8,23.9,54.6,AL,Southeast
+1155,2016,Alaska,80673.0,12.3,6.8,27.0,54.0,AK,Far West
+1156,2016,All States and DC,,12.4,5.1,25.3,56.8,,
+1157,2016,Arizona,60832.0,9.5,5.3,25.5,59.8,AZ,Southwest
+1158,2016,Arkansas,48908.0,16.8,6.8,24.5,51.9,AR,Southeast
+1159,2016,California,70993.0,6.5,4.4,23.1,66.0,CA,Far West
+1160,2016,Colorado,75179.0,10.3,5.3,24.9,59.5,CO,Rocky Mountain
+1161,2016,Connecticut,80886.0,9.3,4.1,27.2,59.4,CT,New England
+1162,2016,Delaware,61840.0,12.4,5.2,26.8,55.5,DE,Mideast
+1163,2016,District of Columbia,75622.0,8.3,6.4,19.2,66.2,DC,
+1164,2016,Florida,54521.0,10.1,5.4,26.5,58.0,FL,Southeast
+1165,2016,Georgia,57026.0,12.1,5.8,20.9,61.2,GA,Southeast
+1166,2016,Guam,,15.9,9.2,19.4,55.5,GU,
+1167,2016,Hawaii,76848.0,8.9,4.1,25.4,61.6,HI,Far West
+1168,2016,Idaho,60261.0,10.3,4.2,23.5,62.0,ID,Rocky Mountain
+1169,2016,Illinois,65398.0,10.7,5.1,24.1,60.1,IL,Great Lakes
+1170,2016,Indiana,59761.0,15.5,5.7,24.5,54.4,IN,Great Lakes
+1171,2016,Iowa,62957.0,12.6,4.2,25.3,58.0,IA,Plains
+1172,2016,Kansas,60523.0,12.5,4.7,24.1,58.7,KS,Plains
+1173,2016,Kentucky,48335.0,18.7,5.8,24.8,50.7,KY,Southeast
+1174,2016,Louisiana,44954.0,15.1,7.6,23.0,54.3,LA,Southeast
+1175,2016,Maine,54180.0,15.3,4.5,32.0,48.2,ME,New England
+1176,2016,Maryland,78581.0,9.4,4.3,23.5,62.9,MD,Mideast
+1177,2016,Massachusetts,76990.0,9.6,4.0,26.7,59.6,MA,New England
+1178,2016,Michigan,60823.0,14.4,6.1,25.8,53.8,MI,Great Lakes
+1179,2016,Minnesota,74808.0,10.6,4.7,26.1,58.8,MN,Plains
+1180,2016,Mississippi,43785.0,16.6,6.1,23.6,53.7,MS,Southeast
+1181,2016,Missouri,58612.0,17.4,4.8,26.3,51.6,MO,Plains
+1182,2016,Montana,60806.0,13.2,5.3,27.3,54.1,MT,Rocky Mountain
+1183,2016,Nebraska,63255.0,12.1,4.9,24.6,58.5,NE,Plains
+1184,2016,Nevada,59054.0,10.8,5.7,24.4,59.1,NV,Far West
+1185,2016,New Hampshire,81245.0,13.0,5.0,28.4,53.6,NH,New England
+1186,2016,New Jersey,72943.0,9.3,4.7,23.7,62.3,NJ,Mideast
+1187,2016,New Mexico,51618.0,10.3,6.3,25.6,57.8,NM,Southwest
+1188,2016,New York,65453.0,9.3,4.9,23.3,62.6,NY,Mideast
+1189,2016,North Carolina,57278.0,12.7,5.2,25.3,56.8,NC,Southeast
+1190,2016,North Dakota,64118.0,14.0,5.8,24.8,55.5,ND,Plains
+1191,2016,Ohio,57514.0,17.2,5.3,23.6,53.9,OH,Great Lakes
+1192,2016,Oklahoma,54273.0,14.0,5.6,24.8,55.6,OK,Southwest
+1193,2016,Oregon,63000.0,11.8,4.5,27.0,56.8,OR,Far West
+1194,2016,Pennsylvania,64965.0,12.9,5.1,26.5,55.6,PA,Mideast
+1195,2016,Puerto Rico,,7.6,3.0,16.9,72.6,PR,
+1196,2016,Rhode Island,65550.0,9.5,5.0,28.0,57.6,RI,New England
+1197,2016,South Carolina,57888.0,13.0,7.0,25.8,54.2,SC,Southeast
+1198,2016,South Dakota,61205.0,12.5,5.6,26.3,55.6,SD,Plains
+1199,2016,Tennessee,54700.0,15.2,6.9,23.8,54.1,TN,Southeast
+1200,2016,Texas,61947.0,8.4,5.8,23.0,62.8,TX,Southwest
+1201,2016,United States,62898.0,12.3,5.1,24.9,57.2,US,
+1202,2016,Utah,71892.0,5.6,3.2,15.9,75.3,UT,Rocky Mountain
+1203,2016,Vermont,64814.0,12.5,4.5,28.7,54.3,VT,New England
+1204,2016,Virgin Islands,,3.7,2.9,10.1,83.3,VI,
+1205,2016,Virginia,70795.0,11.2,4.1,23.9,60.8,VA,Southeast
+1206,2016,Washington,74906.0,9.2,4.8,26.7,59.4,WA,Far West
+1207,2016,West Virginia,47253.0,19.7,5.1,26.3,48.9,WV,Southeast
+1208,2016,Wisconsin,63727.0,12.4,4.7,27.5,55.4,WI,Great Lakes
+1209,2016,Wyoming,61609.0,14.6,4.4,26.1,54.9,WY,Rocky Mountain
+1210,2017,Alabama,53049.0,13.7,7.2,23.4,55.7,AL,Southeast
+1211,2017,Alaska,81335.0,14.6,6.5,25.6,53.4,AK,Far West
+1212,2017,All States and DC,,11.7,5.2,25.1,58.2,,
+1213,2017,Arizona,62263.0,10.2,5.4,24.7,59.8,AZ,Southwest
+1214,2017,Arkansas,51887.0,16.7,5.6,25.5,52.2,AR,Southeast
+1215,2017,California,73045.0,6.4,5.0,22.3,66.4,CA,Far West
+1216,2017,Colorado,78204.0,9.7,4.9,25.6,59.8,CO,Rocky Mountain
+1217,2017,Connecticut,77494.0,8.4,4.4,26.0,61.3,CT,New England
+1218,2017,Delaware,67750.0,11.2,5.8,25.1,57.9,DE,Mideast
+1219,2017,District of Columbia,84772.0,8.1,6.3,18.4,67.2,DC,
+1220,2017,Florida,55365.0,10.9,5.2,24.9,59.0,FL,Southeast
+1221,2017,Georgia,60475.0,11.5,6.0,20.3,62.2,GA,Southeast
+1222,2017,Guam,,17.7,8.7,20.4,53.3,GU,
+1223,2017,Hawaii,76759.0,8.0,4.8,26.7,60.5,HI,Far West
+1224,2017,Idaho,62052.0,10.5,3.9,23.9,61.8,ID,Rocky Mountain
+1225,2017,Illinois,68801.0,10.5,5.0,23.0,61.5,IL,Great Lakes
+1226,2017,Indiana,61290.0,15.8,6.0,24.5,53.7,IN,Great Lakes
+1227,2017,Iowa,66192.0,12.6,4.5,24.6,58.3,IA,Plains
+1228,2017,Kansas,59343.0,12.2,5.2,24.3,58.3,KS,Plains
+1229,2017,Kentucky,51805.0,19.4,5.2,25.6,49.8,KY,Southeast
+1230,2017,Louisiana,45436.0,15.1,8.0,22.9,54.0,LA,Southeast
+1231,2017,Maine,55605.0,13.2,4.1,31.7,51.0,ME,New England
+1232,2017,Maryland,85618.0,9.3,4.5,22.0,64.2,MD,Mideast
+1233,2017,Massachusetts,79517.0,8.6,5.0,25.1,61.3,MA,New England
+1234,2017,Michigan,58827.0,13.6,5.7,26.7,54.0,MI,Great Lakes
+1235,2017,Minnesota,72979.0,9.9,4.6,26.3,59.1,MN,Plains
+1236,2017,Mississippi,45139.0,16.4,5.8,21.6,56.3,MS,Southeast
+1237,2017,Missouri,58957.0,16.2,4.6,25.8,53.4,MO,Plains
+1238,2017,Montana,59872.0,12.2,5.0,27.3,55.6,MT,Rocky Mountain
+1239,2017,Nebraska,62141.0,11.1,4.3,24.6,60.0,NE,Plains
+1240,2017,Nevada,60533.0,11.1,6.5,24.0,58.5,NV,Far West
+1241,2017,New Hampshire,78877.0,11.9,3.8,30.3,54.0,NH,New England
+1242,2017,New Jersey,74299.0,8.4,5.4,25.3,61.0,NJ,Mideast
+1243,2017,New Mexico,47559.0,10.8,6.7,23.9,58.6,NM,Southwest
+1244,2017,New York,64185.0,8.9,5.2,23.1,62.8,NY,Mideast
+1245,2017,North Carolina,51674.0,11.9,5.3,25.9,56.9,NC,Southeast
+1246,2017,North Dakota,62750.0,13.3,5.0,25.0,56.8,ND,Plains
+1247,2017,Ohio,63294.0,16.5,4.6,24.4,54.5,OH,Great Lakes
+1248,2017,Oklahoma,54110.0,13.3,6.9,24.5,55.3,OK,Southwest
+1249,2017,Oregon,65181.0,11.5,4.6,25.7,58.2,OR,Far West
+1250,2017,Pennsylvania,63916.0,13.4,5.4,26.9,54.3,PA,Mideast
+1251,2017,Puerto Rico,,7.7,3.6,18.6,70.1,PR,
+1252,2017,Rhode Island,68209.0,9.8,5.1,28.5,56.6,RI,New England
+1253,2017,South Carolina,56879.0,12.5,6.2,26.5,54.8,SC,Southeast
+1254,2017,South Dakota,59358.0,13.7,5.6,25.7,55.1,SD,Plains
+1255,2017,Tennessee,57681.0,16.0,6.7,23.8,53.6,TN,Southeast
+1256,2017,Texas,62672.0,9.3,6.4,19.9,64.4,TX,Southwest
+1257,2017,United States,63761.0,11.7,5.2,25.0,58.2,US,
+1258,2017,Utah,72785.0,6.1,2.8,15.0,76.1,UT,Rocky Mountain
+1259,2017,Vermont,66416.0,11.8,4.0,29.5,54.7,VT,New England
+1260,2017,Virginia,73851.0,11.2,5.2,23.8,59.9,VA,Southeast
+1261,2017,Washington,74612.0,9.1,4.4,27.2,59.3,WA,Far West
+1262,2017,West Virginia,48973.0,20.0,6.1,26.2,47.8,WV,Southeast
+1263,2017,Wisconsin,66208.0,11.7,4.3,25.6,58.4,WI,Great Lakes
+1264,2017,Wyoming,62092.0,14.0,4.7,26.0,55.3,WY,Rocky Mountain
+1265,2018,Alabama,50841.0,13.0,6.2,24.7,56.2,AL,Southeast
+1266,2018,Alaska,69979.0,13.5,5.5,24.1,56.8,AK,Far West
+1267,2018,All States and DC,,11.7,4.8,25.1,57.8,,
+1268,2018,Arizona,63411.0,9.3,4.7,26.3,59.8,AZ,Southwest
+1269,2018,Arkansas,50683.0,16.8,5.9,24.3,53.0,AR,Southeast
+1270,2018,California,71766.0,6.3,5.0,22.1,66.7,CA,Far West
+1271,2018,Colorado,74357.0,9.6,4.8,25.9,59.7,CO,Rocky Mountain
+1272,2018,Connecticut,74131.0,8.1,4.1,27.3,60.6,CT,New England
+1273,2018,Delaware,66190.0,11.8,4.8,25.7,57.8,DE,Mideast
+1274,2018,District of Columbia,87304.0,6.9,6.9,20.9,65.4,DC,
+1275,2018,Florida,55634.0,10.5,4.0,27.4,58.2,FL,Southeast
+1276,2018,Georgia,56832.0,10.8,5.2,21.5,62.4,GA,Southeast
+1277,2018,Guam,,15.1,6.8,17.1,61.0,GU,
+1278,2018,Hawaii,81559.0,8.9,4.5,26.0,60.6,HI,Far West
+1279,2018,Idaho,59792.0,10.0,4.7,23.4,61.9,ID,Rocky Mountain
+1280,2018,Illinois,71416.0,10.9,4.6,22.8,61.7,IL,Great Lakes
+1281,2018,Indiana,60977.0,16.0,5.1,23.9,55.0,IN,Great Lakes
+1282,2018,Iowa,69963.0,12.1,4.5,24.4,59.0,IA,Plains
+1283,2018,Kansas,65096.0,12.7,4.5,24.6,58.2,KS,Plains
+1284,2018,Kentucky,55543.0,17.1,6.3,27.0,49.7,KY,Southeast
+1285,2018,Louisiana,50878.0,13.6,6.9,22.6,56.9,LA,Southeast
+1286,2018,Maine,59726.0,13.8,3.9,31.9,50.3,ME,New England
+1287,2018,Maryland,87785.0,8.4,4.1,23.5,64.0,MD,Mideast
+1288,2018,Massachusetts,87909.0,9.3,4.1,25.1,61.5,MA,New England
+1289,2018,Michigan,61544.0,13.4,5.5,26.4,54.7,MI,Great Lakes
+1290,2018,Minnesota,73118.0,10.6,4.6,25.9,59.0,MN,Plains
+1291,2018,Mississippi,43556.0,14.9,5.6,22.2,57.2,MS,Southeast
+1292,2018,Missouri,62844.0,14.4,5.0,24.6,56.0,MO,Plains
+1293,2018,Montana,58724.0,13.0,5.0,26.4,55.6,MT,Rocky Mountain
+1294,2018,Nebraska,68799.0,11.3,4.7,23.7,60.3,NE,Plains
+1295,2018,Nevada,62985.0,10.5,5.2,25.7,58.6,NV,Far West
+1296,2018,New Hampshire,82820.0,10.9,4.7,29.5,54.9,NH,New England
+1297,2018,New Jersey,75520.0,8.8,4.2,23.9,63.1,NJ,Mideast
+1298,2018,New Mexico,49158.0,9.4,5.8,25.5,59.3,NM,Southwest
+1299,2018,New York,68493.0,8.4,4.5,23.4,63.8,NY,Mideast
+1300,2018,North Carolina,54336.0,12.5,5.0,25.6,57.0,NC,Southeast
+1301,2018,North Dakota,67710.0,14.0,5.1,23.6,57.3,ND,Plains
+1302,2018,Ohio,62750.0,16.0,4.5,25.2,54.3,OH,Great Lakes
+1303,2018,Oklahoma,55420.0,13.7,6.0,24.8,55.5,OK,Southwest
+1304,2018,Oregon,70418.0,11.7,4.0,27.5,56.9,OR,Far West
+1305,2018,Pennsylvania,65693.0,13.0,4.0,25.8,57.2,PA,Mideast
+1306,2018,Puerto Rico,,6.8,3.2,18.1,72.0,PR,
+1307,2018,Rhode Island,63394.0,9.7,4.9,27.5,57.9,RI,New England
+1308,2018,South Carolina,58485.0,12.3,5.7,25.5,56.5,SC,Southeast
+1309,2018,South Dakota,60540.0,13.8,5.2,25.2,55.9,SD,Plains
+1310,2018,Tennessee,57076.0,15.7,5.0,24.8,54.6,TN,Southeast
+1311,2018,Texas,60868.0,9.3,5.1,21.6,64.0,TX,Southwest
+1312,2018,United States,64324.0,11.7,4.8,24.8,57.9,US,
+1313,2018,Utah,78463.0,5.8,3.2,15.9,75.1,UT,Rocky Mountain
+1314,2018,Vermont,71335.0,9.9,3.8,30.3,56.0,VT,New England
+1315,2018,Virginia,78549.0,10.2,4.7,22.8,62.3,VA,Southeast
+1316,2018,Washington,81170.0,8.3,3.7,26.0,62.0,WA,Far West
+1317,2018,West Virginia,51489.0,20.6,4.7,24.2,50.6,WV,Southeast
+1318,2018,Wisconsin,63764.0,11.9,4.5,26.3,57.3,WI,Great Lakes
+1319,2018,Wyoming,63672.0,13.6,5.2,26.3,54.9,WY,Rocky Mountain
+1320,2019,Alabama,56200.0,14.7,5.6,24.3,55.5,AL,Southeast
+1321,2019,Alaska,78394.0,12.1,5.3,25.9,56.8,AK,Far West
+1322,2019,All States and DC,,11.1,4.7,25.2,58.6,,
+1323,2019,Arizona,70674.0,9.5,5.5,26.4,58.7,AZ,Southwest
+1324,2019,Arkansas,54539.0,14.4,5.8,25.5,54.3,AR,Southeast
+1325,2019,California,78105.0,5.8,4.3,23.0,67.0,CA,Far West
+1326,2019,Colorado,72499.0,8.9,4.6,25.5,61.0,CO,Rocky Mountain
+1327,2019,Connecticut,87291.0,8.6,3.5,25.2,62.7,CT,New England
+1328,2019,Delaware,74194.0,11.0,4.9,26.3,57.8,DE,Mideast
+1329,2019,District of Columbia,93111.0,6.9,5.9,20.6,66.6,DC,
+1330,2019,Florida,58368.0,9.8,5.0,26.3,58.9,FL,Southeast
+1331,2019,Georgia,56628.0,11.0,5.3,21.9,61.8,GA,Southeast
+1332,2019,Guam,,16.2,7.2,17.2,59.5,GU,
+1333,2019,Hawaii,88006.0,8.1,4.1,25.4,62.3,HI,Far West
+1334,2019,Idaho,65988.0,10.2,5.1,23.5,61.1,ID,Rocky Mountain
+1335,2019,Illinois,74399.0,9.8,4.7,25.2,60.3,IL,Great Lakes
+1336,2019,Indiana,66693.0,14.1,5.1,25.0,55.9,IN,Great Lakes
+1337,2019,Iowa,66054.0,11.9,4.5,24.2,59.5,IA,Plains
+1338,2019,Kansas,73151.0,11.6,4.6,24.6,59.2,KS,Plains
+1339,2019,Kentucky,55662.0,18.3,5.3,25.0,51.4,KY,Southeast
+1340,2019,Louisiana,51707.0,15.6,6.3,23.0,55.2,LA,Southeast
+1341,2019,Maine,66546.0,13.9,3.7,30.4,52.0,ME,New England
+1342,2019,Maryland,95572.0,8.2,4.5,22.1,65.3,MD,Mideast
+1343,2019,Massachusetts,87707.0,8.4,3.7,25.3,62.6,MA,New England
+1344,2019,Michigan,64119.0,13.6,5.0,26.6,54.8,MI,Great Lakes
+1345,2019,Minnesota,81426.0,10.5,4.1,25.6,59.8,MN,Plains
+1346,2019,Mississippi,44787.0,14.7,5.7,21.9,57.7,MS,Southeast
+1347,2019,Missouri,60597.0,14.6,5.0,26.6,53.8,MO,Plains
+1348,2019,Montana,60195.0,12.1,4.5,26.7,56.7,MT,Rocky Mountain
+1349,2019,Nebraska,73071.0,10.7,4.0,24.7,60.6,NE,Plains
+1350,2019,Nevada,70906.0,10.4,5.3,24.5,59.8,NV,Far West
+1351,2019,New Hampshire,86900.0,11.9,4.0,30.3,53.8,NH,New England
+1352,2019,New Jersey,87726.0,,,,,NJ,Mideast
+1353,2019,New Mexico,53113.0,10.7,5.3,24.6,59.4,NM,Southwest
+1354,2019,New York,71855.0,8.3,4.4,23.6,63.8,NY,Mideast
+1355,2019,North Carolina,61159.0,12.9,5.6,24.1,57.4,NC,Southeast
+1356,2019,North Dakota,70031.0,12.4,4.7,22.8,60.2,ND,Plains
+1357,2019,Ohio,64663.0,16.0,4.8,24.3,55.0,OH,Great Lakes
+1358,2019,Oklahoma,59397.0,13.2,5.7,25.3,55.8,OK,Southwest
+1359,2019,Oregon,74413.0,10.1,4.4,27.0,58.6,OR,Far West
+1360,2019,Pennsylvania,70582.0,13.1,4.2,26.4,56.3,PA,Mideast
+1361,2019,Puerto Rico,,6.7,2.9,16.9,73.5,PR,
+1362,2019,Rhode Island,70151.0,8.9,4.5,26.7,60.0,RI,New England
+1363,2019,South Carolina,62028.0,12.2,5.3,25.5,56.9,SC,Southeast
+1364,2019,South Dakota,64255.0,12.5,5.8,26.2,55.5,SD,Plains
+1365,2019,Tennessee,56627.0,14.1,5.8,25.3,54.8,TN,Southeast
+1366,2019,Texas,67444.0,9.1,5.6,20.2,65.1,TX,Southwest
+1367,2019,United States,68703.0,11.1,4.7,25.2,58.8,US,
+1368,2019,Utah,84523.0,5.2,2.7,16.6,75.5,UT,Rocky Mountain
+1369,2019,Vermont,74305.0,11.2,4.0,29.6,55.3,VT,New England
+1370,2019,Virginia,81313.0,9.5,4.6,23.1,62.9,VA,Southeast
+1371,2019,Washington,82454.0,8.3,4.4,25.1,62.2,WA,Far West
+1372,2019,West Virginia,53706.0,18.3,5.4,26.4,49.9,WV,Southeast
+1373,2019,Wisconsin,67355.0,10.8,4.5,26.8,57.8,WI,Great Lakes
+1374,2019,Wyoming,65134.0,14.2,4.2,24.4,57.2,WY,Rocky Mountain
